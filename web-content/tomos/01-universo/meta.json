@@ -1,0 +1,30 @@
+{
+  "id": "01-universo",
+  "num": 1,
+  "name": "El Universo",
+  "cover": "images/01-Universo/cover.webp",
+  "badge_id": "tomo:01-universo",
+  "chapters": [
+    {
+      "id": "01-somos-polvo-de-estrellas",
+      "title": "Somos polvo de estrellas",
+      "tomo_id": "01-universo",
+      "badge_id": "chapter:01-universo:01-somos-polvo-de-estrellas",
+      "cover_image": "images/01-Universo/01-somos-polvo-de-estrellas/cover.webp"
+    },
+    {
+      "id": "02-el-mundo-que-se-acabo-una-tarde",
+      "title": "El mundo que se acabó una tarde",
+      "tomo_id": "01-universo",
+      "badge_id": "chapter:01-universo:02-el-mundo-que-se-acabo-una-tarde",
+      "cover_image": "images/01-Universo/02-el-mundo-que-se-acabo-una-tarde/cover.webp"
+    },
+    {
+      "id": "03-vecinos-del-sol",
+      "title": "Los vecinos del Sol",
+      "tomo_id": "01-universo",
+      "badge_id": "chapter:01-universo:03-vecinos-del-sol",
+      "cover_image": "images/01-Universo/03-vecinos-del-sol/cover.webp"
+    }
+  ]
+}

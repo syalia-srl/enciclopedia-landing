@@ -1,0 +1,82 @@
+{
+  "featured": {
+    "slug": "lynn-margulis",
+    "name": "Margulis, Lynn",
+    "bio": "Lynn Margulis (1938–2011) fue una bióloga estadounidense célebre por\ndefender, casi sola y durante años, la teoría de la endosimbiosis: que\nlas mitocondrias y los cloroplastos de las células complejas eran,\noriginalmente, bacterias libres que se metieron a vivir dentro de\notras células mucho tiempo atrás. Cuando lo propuso por primera vez\nen 1967, su artículo fue rechazado quince veces antes de publicarse.\nHoy es ciencia establecida.\n\nEstudió en Chicago bajo Carl Sagan, con quien estuvo casada\nbrevemente. Trabajó casi toda su carrera en la Universidad de\nMassachusetts en Amherst. Defendió ideas a contracorriente con tanta\ntenacidad que muchas terminaron por imponerse — pero no todas: su\nentusiasmo por la teoría de Gaia, que describe la Tierra como un\norganismo vivo, le valió tanta admiración como controversia.\n\nEn 1983 fue elegida miembro de la Academia Nacional de Ciencias, y\nen 1999 recibió la Medalla Nacional de la Ciencia de Estados Unidos.\nSu lección, repetía, era simple: la vida no avanza solo a empujones\ncompetitivos; también avanza por simbiosis.",
+    "image": "images/02-Vida/01-el-origen-de-la-vida/glosario/_guia.webp"
+  },
+  "entries": [
+    {
+      "slug": "arcaico",
+      "image": "images/02-Vida/01-el-origen-de-la-vida/glosario/arcaico.webp",
+      "row": 0,
+      "col": 0,
+      "name": "Eón Arcaico",
+      "description": "Etapa de la Tierra entre 4 000 y 2 500 millones de años atrás. Los océanos ya eran líquidos, pero la atmósfera no tenía oxígeno: era de metano, dióxido de carbono y vapor de agua, con un tono carmelita anaranjado parecido al que hoy tiene Titán, la luna mayor de Saturno. La vida apareció en algún momento de este eón."
+    },
+    {
+      "slug": "miller-urey",
+      "image": "images/02-Vida/01-el-origen-de-la-vida/glosario/miller-urey.webp",
+      "row": 0,
+      "col": 1,
+      "name": "Experimento de Miller-Urey",
+      "description": "En 1952, el químico estadounidense Stanley Miller hizo pasar descargas eléctricas — rayos en miniatura — por un matraz que contenía agua, metano, amoníaco e hidrógeno, imitando la atmósfera primitiva. Al cabo de unos días, el agua se llenó de aminoácidos, las piezas básicas de las proteínas. Demostró que las moléculas de la vida pueden formarse sin vida previa."
+    },
+    {
+      "slug": "lost-city",
+      "image": "images/02-Vida/01-el-origen-de-la-vida/glosario/lost-city.webp",
+      "row": 0,
+      "col": 2,
+      "name": "Lost City",
+      "description": "Campo de chimeneas blancas del fondo del Atlántico, descubierto en el año 2000 a unos 800 metros de profundidad. El agua caliente y mineral que sale de ellas se mezcla con el agua fría del mar y deposita torres de carbonato. Algunos científicos creen que en chimeneas como estas, hace miles de millones de años, empezó la vida."
+    },
+    {
+      "slug": "protocelula",
+      "image": "images/02-Vida/01-el-origen-de-la-vida/glosario/protocelula.webp",
+      "row": 1,
+      "col": 0,
+      "name": "Protocélula",
+      "description": "Pequeña burbuja de grasa, formada cuando los lípidos se autoensamblan en agua. Si dentro queda atrapado material reactivo y la burbuja crece y se divide, es ya un sistema con frontera y con interior — el primer ladrillo posible de la vida. Aún no se ha logrado en laboratorio una protocélula que evolucione sola."
+    },
+    {
+      "slug": "arn",
+      "image": "images/02-Vida/01-el-origen-de-la-vida/glosario/arn.webp",
+      "row": 1,
+      "col": 1,
+      "name": "ARN",
+      "description": "Molécula larga, parecida al ADN pero con una sola hebra. Sirve a la vez de mensajero (lleva instrucciones) y de obrero (cataliza reacciones químicas). Probablemente fue la primera molécula viva: en el \"mundo del ARN\", antes de que existieran ADN ni proteínas, el ARN se copiaba a sí mismo y hacía el trabajo. El ADN y las proteínas vinieron después."
+    },
+    {
+      "slug": "luca",
+      "image": "images/02-Vida/01-el-origen-de-la-vida/glosario/luca.webp",
+      "row": 1,
+      "col": 2,
+      "name": "LUCA",
+      "description": "Último Antepasado Universal Común, en inglés *Last Universal Common Ancestor*. Una sola célula — o un linaje muy estrecho de células — de la que descienden absolutamente todos los seres vivos del planeta, incluidas todas las bacterias, todos los hongos, todas las plantas y todos los animales. Se cree que vivió hace al menos 4 200 millones de años."
+    },
+    {
+      "slug": "cianobacteria",
+      "image": "images/02-Vida/01-el-origen-de-la-vida/glosario/cianobacteria.webp",
+      "row": 2,
+      "col": 0,
+      "name": "Cianobacteria",
+      "description": "Pequeño ser unicelular azulado que inventó la fotosíntesis. Atrapa la luz del sol y la usa para fabricar comida a partir de agua y dióxido de carbono, soltando oxígeno como sobra. Hace unos 2 460 millones de años, las cianobacterias llenaron el planeta de tanto oxígeno que cambiaron la atmósfera para siempre."
+    },
+    {
+      "slug": "mitocondria",
+      "image": "images/02-Vida/01-el-origen-de-la-vida/glosario/mitocondria.webp",
+      "row": 2,
+      "col": 1,
+      "name": "Mitocondria",
+      "description": "Pequeño órgano que vive dentro de cada célula compleja, donde se produce casi toda la energía del cuerpo. Originalmente fue una bacteria libre que, hace \\textasciitilde{}2 000 millones de años, se metió a vivir dentro de otra célula y se quedó ahí. Por eso conserva su propio ADN, distinto del de la célula que la hospeda."
+    },
+    {
+      "slug": "tardigrado",
+      "image": "images/02-Vida/01-el-origen-de-la-vida/glosario/tardigrado.webp",
+      "row": 2,
+      "col": 2,
+      "name": "Tardígrado",
+      "description": "Diminuto animal de ocho patas y boca redonda, también llamado \"oso de agua\". Mide menos de un milímetro. Sobrevive a casi cualquier cosa: el congelador, el horno, la radiación, el vacío del espacio, secarse durante años. Cuando las condiciones vuelven a ser buenas, se despierta y sigue caminando como si nada."
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "integral": {
+    "id": "integral",
+    "name": "Guardián del Conocimiento",
+    "description": "Completaste toda la enciclopedia",
+    "icon": "🏆",
+    "type": "integral"
+  },
+  "chapter:01-universo:01-somos-polvo-de-estrellas": {
+    "id": "chapter:01-universo:01-somos-polvo-de-estrellas",
+    "name": "Polvo de Estrellas",
+    "description": "Leíste «Somos polvo de estrellas»",
+    "icon": "⭐",
+    "type": "chapter",
+    "tomo_id": "01-universo",
+    "chapter_id": "01-somos-polvo-de-estrellas"
+  },
+  "chapter:01-universo:02-el-mundo-que-se-acabo-una-tarde": {
+    "id": "chapter:01-universo:02-el-mundo-que-se-acabo-una-tarde",
+    "name": "Cazador de Fósiles",
+    "description": "Leíste «El mundo que se acabó una tarde»",
+    "icon": "🦕",
+    "type": "chapter",
+    "tomo_id": "01-universo",
+    "chapter_id": "02-el-mundo-que-se-acabo-una-tarde"
+  },
+  "chapter:01-universo:03-vecinos-del-sol": {
+    "id": "chapter:01-universo:03-vecinos-del-sol",
+    "name": "Los vecinos del Sol",
+    "description": "Leíste «Los vecinos del Sol»",
+    "icon": "📚",
+    "type": "chapter",
+    "tomo_id": "01-universo",
+    "chapter_id": "03-vecinos-del-sol"
+  },
+  "tomo:01-universo": {
+    "id": "tomo:01-universo",
+    "name": "Explorador del Universo",
+    "description": "Completaste el Tomo I — El Universo",
+    "icon": "🌌",
+    "type": "tomo",
+    "tomo_id": "01-universo"
+  },
+  "chapter:02-vida:01-el-origen-de-la-vida": {
+    "id": "chapter:02-vida:01-el-origen-de-la-vida",
+    "name": "Buscador del Origen",
+    "description": "Leíste «El origen de la vida»",
+    "icon": "🔬",
+    "type": "chapter",
+    "tomo_id": "02-vida",
+    "chapter_id": "01-el-origen-de-la-vida"
+  },
+  "chapter:02-vida:10-un-ejercito-invisible": {
+    "id": "chapter:02-vida:10-un-ejercito-invisible",
+    "name": "Comandante Invisible",
+    "description": "Leíste «Un ejército invisible»",
+    "icon": "🦠",
+    "type": "chapter",
+    "tomo_id": "02-vida",
+    "chapter_id": "10-un-ejercito-invisible"
+  },
+  "chapter:02-vida:11-el-bichito-que-pica": {
+    "id": "chapter:02-vida:11-el-bichito-que-pica",
+    "name": "El bichito que pica",
+    "description": "Leíste «El bichito que pica»",
+    "icon": "📚",
+    "type": "chapter",
+    "tomo_id": "02-vida",
+    "chapter_id": "11-el-bichito-que-pica"
+  },
+  "tomo:02-vida": {
+    "id": "tomo:02-vida",
+    "name": "Guardián de la Vida",
+    "description": "Completaste el Tomo II — La Vida",
+    "icon": "🧬",
+    "type": "tomo",
+    "tomo_id": "02-vida"
+  },
+  "chapter:03-gente:05-el-lobo-que-no-temia-al-fuego": {
+    "id": "chapter:03-gente:05-el-lobo-que-no-temia-al-fuego",
+    "name": "Domador del Fuego",
+    "description": "Leíste «El lobo que no temía al fuego»",
+    "icon": "🐺",
+    "type": "chapter",
+    "tomo_id": "03-gente",
+    "chapter_id": "05-el-lobo-que-no-temia-al-fuego"
+  },
+  "tomo:03-gente": {
+    "id": "tomo:03-gente",
+    "name": "Caminante de la Historia",
+    "description": "Completaste el Tomo III — La Gente",
+    "icon": "🏛️",
+    "type": "tomo",
+    "tomo_id": "03-gente"
+  },
+  "chapter:04-ideas:01-las-palabras-que-aprendieron-a-llamarse": {
+    "id": "chapter:04-ideas:01-las-palabras-que-aprendieron-a-llamarse",
+    "name": "Maestro de Palabras",
+    "description": "Leíste «Las palabras que aprendieron a llamarse»",
+    "icon": "📖",
+    "type": "chapter",
+    "tomo_id": "04-ideas",
+    "chapter_id": "01-las-palabras-que-aprendieron-a-llamarse"
+  },
+  "tomo:04-ideas": {
+    "id": "tomo:04-ideas",
+    "name": "Tejedor de Ideas",
+    "description": "Completaste el Tomo IV — Las Ideas",
+    "icon": "💡",
+    "type": "tomo",
+    "tomo_id": "04-ideas"
+  },
+  "chapter:05-cosas:01-cuando-las-manos-no-alcanzan": {
+    "id": "chapter:05-cosas:01-cuando-las-manos-no-alcanzan",
+    "name": "Cuando las manos no alcanzan",
+    "description": "Leíste «Cuando las manos no alcanzan»",
+    "icon": "📚",
+    "type": "chapter",
+    "tomo_id": "05-cosas",
+    "chapter_id": "01-cuando-las-manos-no-alcanzan"
+  },
+  "tomo:05-cosas": {
+    "id": "tomo:05-cosas",
+    "name": "Inventor del Mundo",
+    "description": "Completaste el Tomo V — Las Cosas",
+    "icon": "⚙️",
+    "type": "tomo",
+    "tomo_id": "05-cosas"
+  }
+}

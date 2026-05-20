@@ -1,0 +1,16 @@
+{
+  "id": "05-cosas",
+  "num": 5,
+  "name": "Las Cosas",
+  "cover": "images/05-Cosas/cover.webp",
+  "badge_id": "tomo:05-cosas",
+  "chapters": [
+    {
+      "id": "01-cuando-las-manos-no-alcanzan",
+      "title": "Cuando las manos no alcanzan",
+      "tomo_id": "05-cosas",
+      "badge_id": "chapter:05-cosas:01-cuando-las-manos-no-alcanzan",
+      "cover_image": "images/05-Cosas/01-cuando-las-manos-no-alcanzan/cover.webp"
+    }
+  ]
+}

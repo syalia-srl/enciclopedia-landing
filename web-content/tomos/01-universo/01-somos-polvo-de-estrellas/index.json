@@ -1,0 +1,173 @@
+{
+  "entities": [
+    {
+      "type": "entity",
+      "value": "Lemaître, Georges",
+      "paragraph_index": 22
+    },
+    {
+      "type": "entity",
+      "value": "Big Bang",
+      "paragraph_index": 48
+    },
+    {
+      "type": "entity",
+      "value": "Átomo primigenio (hipótesis)",
+      "paragraph_index": 48
+    },
+    {
+      "type": "entity",
+      "value": "Inflación cosmológica",
+      "paragraph_index": 48
+    },
+    {
+      "type": "entity",
+      "value": "Recombinación cosmológica",
+      "paragraph_index": 48
+    },
+    {
+      "type": "entity",
+      "value": "Fondo cósmico de microondas",
+      "paragraph_index": 48
+    },
+    {
+      "type": "entity",
+      "value": "Penzias, Arno",
+      "paragraph_index": 48
+    },
+    {
+      "type": "entity",
+      "value": "Wilson, Robert",
+      "paragraph_index": 48
+    },
+    {
+      "type": "entity",
+      "value": "Población III (estrellas)",
+      "paragraph_index": 70
+    },
+    {
+      "type": "entity",
+      "value": "Edad oscura del universo",
+      "paragraph_index": 70
+    },
+    {
+      "type": "entity",
+      "value": "Nucleosíntesis estelar",
+      "paragraph_index": 89
+    },
+    {
+      "type": "entity",
+      "value": "Kilonova",
+      "paragraph_index": 89
+    },
+    {
+      "type": "entity",
+      "value": "GW170817",
+      "paragraph_index": 89
+    },
+    {
+      "type": "entity",
+      "value": "Vía Láctea",
+      "paragraph_index": 120
+    },
+    {
+      "type": "entity",
+      "value": "Disco protoplanetario",
+      "paragraph_index": 120
+    },
+    {
+      "type": "entity",
+      "value": "Theia",
+      "paragraph_index": 159
+    },
+    {
+      "type": "entity",
+      "value": "Tierra primitiva",
+      "paragraph_index": 159
+    },
+    {
+      "type": "entity",
+      "value": "Eón Hadeano",
+      "paragraph_index": 159
+    }
+  ],
+  "questions": [
+    {
+      "type": "question",
+      "value": "¿De dónde salen las estrellas?",
+      "paragraph_index": 22
+    },
+    {
+      "type": "question",
+      "value": "¿Cómo empezó el universo?",
+      "paragraph_index": 22
+    },
+    {
+      "type": "question",
+      "value": "¿De dónde vienen los elementos del cuerpo humano?",
+      "paragraph_index": 89
+    },
+    {
+      "type": "question",
+      "value": "¿Es verdad que somos polvo de estrellas?",
+      "paragraph_index": 89
+    },
+    {
+      "type": "question",
+      "value": "¿De dónde viene el oro?",
+      "paragraph_index": 89
+    },
+    {
+      "type": "question",
+      "value": "¿Cómo se formó el Sol?",
+      "paragraph_index": 120
+    },
+    {
+      "type": "question",
+      "value": "¿Cómo se formó la Tierra?",
+      "paragraph_index": 159
+    },
+    {
+      "type": "question",
+      "value": "¿Cómo se formó la Luna?",
+      "paragraph_index": 159
+    }
+  ],
+  "events": [
+    {
+      "type": "event",
+      "timestamp": -13800000000.0,
+      "date_label": "hace ~13 800 millones de años",
+      "description": "Big Bang: el universo entero comienza a expandirse desde un punto",
+      "paragraph_index": 48
+    },
+    {
+      "type": "event",
+      "timestamp": -13799620000.0,
+      "date_label": "~380 000 años después del Big Bang",
+      "description": "Recombinación: primeros átomos neutros, el universo se vuelve transparente",
+      "paragraph_index": 48
+    },
+    {
+      "type": "event",
+      "timestamp": -4600000000.0,
+      "date_label": "hace ~4 600 millones de años",
+      "description": "Formación del Sol y del disco protoplanetario en un brazo de la Vía Láctea",
+      "paragraph_index": 120
+    },
+    {
+      "type": "event",
+      "timestamp": -4500000000.0,
+      "date_label": "hace ~4 500 millones de años",
+      "description": "Impacto de Theia con la Tierra; formación de la Luna",
+      "paragraph_index": 159
+    },
+    {
+      "type": "event",
+      "timestamp": 2017.0,
+      "date_label": "agosto de 2017",
+      "description": "Detección de ondas gravitacionales del evento GW170817; confirmación de la producción de oro en kilonovas",
+      "paragraph_index": 89
+    }
+  ]
+}

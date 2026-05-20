@@ -1,0 +1,82 @@
+{
+  "featured": {
+    "slug": "lemaitre",
+    "name": "Lemaître, Georges",
+    "bio": "Georges Lemaître (1894–1966) fue un sacerdote belga y físico, profesor\nen la Universidad de Lovaina. Llevó toda su vida una doble vocación:\nla sotana y las ecuaciones, sin que ninguna interrumpiera a la otra.\n\nEn 1927 propuso, en un artículo en francés que casi nadie leyó al\nprincipio, que el universo se expande. Dos años después, desde un\ntelescopio en California, Edwin Hubble confirmó la idea midiendo\ncómo se alejaban las galaxias unas de otras. En 1931, en la revista\n*Nature*, Lemaître fue más allá: si el universo está creciendo, tuvo\nque empezar de algo más pequeño. Imaginó un único punto inicial donde\ntodo cabía y lo llamó \"el átomo primigenio\", o \"el huevo cósmico\".\n\nEl nombre con el que el mundo conoce hoy esa idea no se lo puso él. Se\nlo puso, en una transmisión de radio de la BBC en 1949, un astrónomo\ninglés llamado Fred Hoyle, que no creía en la teoría y se refirió a\nella con sorna como *the big bang*. El nombre se quedó. Lemaître\nnunca lo usó.",
+    "image": "images/01-Universo/01-somos-polvo-de-estrellas/glosario/_guia.webp"
+  },
+  "entries": [
+    {
+      "slug": "big-bang",
+      "image": "images/01-Universo/01-somos-polvo-de-estrellas/glosario/big-bang.webp",
+      "row": 0,
+      "col": 0,
+      "name": "Big Bang",
+      "description": "Nombre que damos al instante en que el universo entero comenzó a expandirse desde un punto increíblemente pequeño y caliente, hace unos 13 800 millones de años. No fue una explosión en el espacio: el espacio mismo empezó a crecer."
+    },
+    {
+      "slug": "inflacion",
+      "image": "images/01-Universo/01-somos-polvo-de-estrellas/glosario/inflacion.webp",
+      "row": 0,
+      "col": 1,
+      "name": "Inflación cósmica",
+      "description": "Brevísima fase justo después del Big Bang en que el universo se expandió hasta volverse trillones de trillones de veces más grande, en un tiempo más corto que un parpadeo. Dejó al universo lo bastante grande y uniforme para todo lo que vino después."
+    },
+    {
+      "slug": "fondo-cosmico",
+      "image": "images/01-Universo/01-somos-polvo-de-estrellas/glosario/fondo-cosmico.webp",
+      "row": 0,
+      "col": 2,
+      "name": "Fondo cósmico de microondas",
+      "description": "La luz más antigua del universo, soltada hace unos 13 800 millones de años cuando el cosmos se hizo transparente por primera vez. Sigue viajando por todas partes y se puede medir con antenas. Una pequeña parte de la nieve que se ve en un televisor antiguo desintonizado proviene de esta luz primigenia."
+    },
+    {
+      "slug": "edad-oscura",
+      "image": "images/01-Universo/01-somos-polvo-de-estrellas/glosario/edad-oscura.webp",
+      "row": 1,
+      "col": 0,
+      "name": "Edad oscura del universo",
+      "description": "Etapa que duró cientos de millones de años entre el momento en que el universo se hizo transparente y el encendido de las primeras estrellas. No había fuentes nuevas de luz: solo gas frío expandiéndose en silencio."
+    },
+    {
+      "slug": "poblacion-iii",
+      "image": "images/01-Universo/01-somos-polvo-de-estrellas/glosario/poblacion-iii.webp",
+      "row": 1,
+      "col": 1,
+      "name": "Población III",
+      "description": "Las primeras estrellas del universo, formadas solo de hidrógeno y helio porque aún no existían los demás elementos. Eran enormes y blanquísimas, vivían apenas unos pocos millones de años y morían en supernovas violentas que esparcían por primera vez los elementos pesados. Aún no se han observado directamente."
+    },
+    {
+      "slug": "nucleosintesis",
+      "image": "images/01-Universo/01-somos-polvo-de-estrellas/glosario/nucleosintesis.webp",
+      "row": 1,
+      "col": 2,
+      "name": "Nucleosíntesis estelar",
+      "description": "Proceso por el que las estrellas, en su interior, fabrican elementos químicos pesados a partir del hidrógeno y el helio originales. El carbono, el oxígeno, el calcio y el hierro de nuestro cuerpo se cocinaron así, dentro de estrellas que vivieron y murieron antes de que el Sol existiera."
+    },
+    {
+      "slug": "via-lactea",
+      "image": "images/01-Universo/01-somos-polvo-de-estrellas/glosario/via-lactea.webp",
+      "row": 2,
+      "col": 0,
+      "name": "Vía Láctea",
+      "description": "Nuestra galaxia: una espiral con barra central que contiene entre cien mil y cuatrocientos mil millones de estrellas. Tiene unos cien mil años luz de diámetro y una edad cercana a la del propio universo. El Sol vive en uno de sus brazos, en una zona tranquila lejos del centro brillante."
+    },
+    {
+      "slug": "theia",
+      "image": "images/01-Universo/01-somos-polvo-de-estrellas/glosario/theia.webp",
+      "row": 2,
+      "col": 1,
+      "name": "Theia",
+      "description": "Protoplaneta del tamaño de Marte que chocó con la Tierra primitiva hace unos 4 500 millones de años. Casi todo Theia se fundió con la Tierra; los pedazos que salieron despedidos quedaron en órbita y, juntándose poco a poco, formaron la Luna. El nombre se lo pusieron los humanos modernos, por la titánide griega madre de Selene."
+    },
+    {
+      "slug": "eon-hadeano",
+      "image": "images/01-Universo/01-somos-polvo-de-estrellas/glosario/eon-hadeano.webp",
+      "row": 2,
+      "col": 2,
+      "name": "Eón Hadeano",
+      "description": "Primera etapa de la Tierra, entre 4 500 y 4 000 millones de años atrás. La superficie estaba en su mayor parte fundida, llovía lava, el cielo era naranja oscuro lleno de polvo y caían meteoritos sin parar. Su nombre viene de Hades, el inframundo griego."
+    }
+  ]
+}

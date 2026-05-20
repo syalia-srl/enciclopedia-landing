@@ -1,0 +1,82 @@
+{
+  "featured": {
+    "slug": "mary-anning",
+    "name": "Anning, Mary",
+    "bio": "Mary Anning (1799–1847) fue una buscadora de fósiles inglesa que vivió\ntoda su vida en el pueblo costero de Lyme Regis, en el sur de\nInglaterra. Allí, los acantilados de pizarra negra del Jurásico se\ndesmoronan al mar, y con cada tormenta dejan al descubierto huesos de\ncriaturas que vivieron cuando las islas británicas estaban en el fondo\ndel océano.\n\nAprendió a buscar fósiles de su padre, ebanista y coleccionista de\ndomingo. Cuando él murió, ella tenía once años. Con doce ayudó a\ndesenterrar el primer ictiosauro completo conocido. En 1823 encontró\nel primer plesiosauro. En 1828, el primer pterosaurio británico.\nIdentificó los coprolitos —heces fosilizadas— que hasta entonces\nnadie sabía nombrar.\n\nLa Sociedad Geológica de Londres le negó la admisión por ser mujer.\nAun así, los geólogos importantes de su época venían a verla, le\ncompraban fósiles y, a veces, le robaban descubrimientos. Charles\nDickens le escribió un obituario veinte años después de su muerte.\nHoy se la considera una de las fundadoras de la paleontología moderna,\ny los acantilados que recorrió siguen llamándose, en su honor, la\nCosta Jurásica.",
+    "image": "images/01-Universo/02-el-mundo-que-se-acabo-una-tarde/glosario/_guia.webp"
+  },
+  "entries": [
+    {
+      "slug": "mesozoico",
+      "image": "images/01-Universo/02-el-mundo-que-se-acabo-una-tarde/glosario/mesozoico.webp",
+      "row": 0,
+      "col": 0,
+      "name": "Era Mesozoica",
+      "description": "Larguísima etapa de la historia de la Tierra, entre 252 y 66 millones de años atrás, dividida en tres periodos: Triásico, Jurásico y Cretácico. Los dinosaurios vivieron en los tres. Empezó después de una gran extinción y terminó con otra."
+    },
+    {
+      "slug": "sauropodo",
+      "image": "images/01-Universo/02-el-mundo-que-se-acabo-una-tarde/glosario/sauropodo.webp",
+      "row": 0,
+      "col": 1,
+      "name": "Saurópodo",
+      "description": "Familia de dinosaurios herbívoros enormes con cuello y cola larguísimos, cabeza pequeña y cuatro patas como columnas. Los más grandes (Diplodocus, Brachiosaurus, Apatosaurus) llegaron a 26 metros de largo y treinta toneladas. Vivieron sobre todo en el Jurásico tardío y se desplazaban en manadas por las llanuras."
+    },
+    {
+      "slug": "triceratops",
+      "image": "images/01-Universo/02-el-mundo-que-se-acabo-una-tarde/glosario/triceratops.webp",
+      "row": 0,
+      "col": 2,
+      "name": "Triceratops",
+      "description": "Dinosaurio cuadrúpedo herbívoro del Cretácico tardío. Tenía tres cuernos en la cabeza y un enorme escudo óseo detrás del cráneo. Llegaba a nueve metros de largo. Compartió tierra y época con el Tyrannosaurus, que lo cazaba — pero no siempre lo conseguía."
+    },
+    {
+      "slug": "tiranosaurio-rex",
+      "image": "images/01-Universo/02-el-mundo-que-se-acabo-una-tarde/glosario/tiranosaurio-rex.webp",
+      "row": 1,
+      "col": 0,
+      "name": "Tyrannosaurus rex",
+      "description": "Gran dinosaurio carnívoro bípedo de los últimos dos millones de años del Cretácico, en lo que hoy es Norteamérica. Hasta trece metros de largo, nueve toneladas, brazos cortos, dientes del tamaño de un plátano y una de las mordidas más fuertes que jamás existió. Lleva poco siendo rey y le quedan menos años de los que él se imagina."
+    },
+    {
+      "slug": "velociraptor",
+      "image": "images/01-Universo/02-el-mundo-que-se-acabo-una-tarde/glosario/velociraptor.webp",
+      "row": 1,
+      "col": 1,
+      "name": "Velociraptor",
+      "description": "Dinosaurio carnívoro pequeño del Cretácico, en lo que hoy es Mongolia. Medía unos dos metros con cola y pesaba lo que un perro grande. Los fósiles muestran que tenía plumas en los antebrazos, aunque no podía volar. La versión gigante y sin plumas de las películas es incorrecta."
+    },
+    {
+      "slug": "melanosomas",
+      "image": "images/01-Universo/02-el-mundo-que-se-acabo-una-tarde/glosario/melanosomas.webp",
+      "row": 1,
+      "col": 2,
+      "name": "Melanosomas",
+      "description": "Diminutas cápsulas de pigmento dentro de las células de la piel y las plumas. En algunos fósiles excepcionales se han preservado, y por su forma se puede deducir el color del animal: alargados producen tonos negro-carmelita, redondos producen tonos rojizo-anaranjado. Gracias a ellos sabemos qué color tenían unas cuantas especies de dinosaurios."
+    },
+    {
+      "slug": "pterosaurio",
+      "image": "images/01-Universo/02-el-mundo-que-se-acabo-una-tarde/glosario/pterosaurio.webp",
+      "row": 2,
+      "col": 0,
+      "name": "Pterosaurio",
+      "description": "Reptil volador del Mesozoico, con alas de piel sostenidas por un cuarto dedo enormemente alargado. NO era un dinosaurio, aunque los acompañó toda la era. Tampoco era un ave: el vuelo lo inventó por su cuenta. El más grande conocido, Quetzalcoatlus, tenía once metros de envergadura — más que una avioneta pequeña."
+    },
+    {
+      "slug": "chicxulub",
+      "image": "images/01-Universo/02-el-mundo-que-se-acabo-una-tarde/glosario/chicxulub.webp",
+      "row": 2,
+      "col": 1,
+      "name": "Chicxulub",
+      "description": "Cráter de unos 180 km de ancho enterrado bajo la península de Yucatán, en México. Lo dejó un asteroide de entre 10 y 15 km de diámetro que cayó hace 66 millones de años. La energía liberada equivale a varios miles de millones de bombas atómicas como la de Hiroshima, y desató la extinción que acabó el Cretácico."
+    },
+    {
+      "slug": "aves-dinosaurios",
+      "image": "images/01-Universo/02-el-mundo-que-se-acabo-una-tarde/glosario/aves-dinosaurios.webp",
+      "row": 2,
+      "col": 2,
+      "name": "Aves como dinosaurios",
+      "description": "Las aves modernas — todas, desde el gorrión hasta el pingüino — son dinosaurios. Descienden de un grupo de pequeños terópodos emplumados que cruzaron la extinción del Cretácico. Tienen huesos huecos, espoleta y plumas en común con sus antepasados. La línea de los dinosaurios no se acabó."
+    }
+  ]
+}

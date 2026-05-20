@@ -1,0 +1,16 @@
+{
+  "id": "03-gente",
+  "num": 3,
+  "name": "La Gente",
+  "cover": "images/03-Gente/cover.webp",
+  "badge_id": "tomo:03-gente",
+  "chapters": [
+    {
+      "id": "05-el-lobo-que-no-temia-al-fuego",
+      "title": "El lobo que no temía al fuego",
+      "tomo_id": "03-gente",
+      "badge_id": "chapter:03-gente:05-el-lobo-que-no-temia-al-fuego",
+      "cover_image": "images/03-Gente/05-el-lobo-que-no-temia-al-fuego/cover.webp"
+    }
+  ]
+}

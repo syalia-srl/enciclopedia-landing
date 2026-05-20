@@ -1,0 +1,215 @@
+{
+  "entities": [
+    {
+      "type": "entity",
+      "value": "Diplodocus",
+      "paragraph_index": 5
+    },
+    {
+      "type": "entity",
+      "value": "Mary Anning",
+      "paragraph_index": 35
+    },
+    {
+      "type": "entity",
+      "value": "Lyme Regis",
+      "paragraph_index": 35
+    },
+    {
+      "type": "entity",
+      "value": "Mesozoico",
+      "paragraph_index": 35
+    },
+    {
+      "type": "entity",
+      "value": "Triásico",
+      "paragraph_index": 35
+    },
+    {
+      "type": "entity",
+      "value": "Richard Owen",
+      "paragraph_index": 35
+    },
+    {
+      "type": "entity",
+      "value": "Eoraptor",
+      "paragraph_index": 63
+    },
+    {
+      "type": "entity",
+      "value": "Herrerasaurus",
+      "paragraph_index": 63
+    },
+    {
+      "type": "entity",
+      "value": "Jurásico",
+      "paragraph_index": 63
+    },
+    {
+      "type": "entity",
+      "value": "Brachiosaurus",
+      "paragraph_index": 77
+    },
+    {
+      "type": "entity",
+      "value": "Apatosaurus",
+      "paragraph_index": 77
+    },
+    {
+      "type": "entity",
+      "value": "Sinosauropteryx",
+      "paragraph_index": 101
+    },
+    {
+      "type": "entity",
+      "value": "Anchiornis",
+      "paragraph_index": 101
+    },
+    {
+      "type": "entity",
+      "value": "Borealopelta",
+      "paragraph_index": 101
+    },
+    {
+      "type": "entity",
+      "value": "Cretácico",
+      "paragraph_index": 116
+    },
+    {
+      "type": "entity",
+      "value": "Triceratops",
+      "paragraph_index": 116
+    },
+    {
+      "type": "entity",
+      "value": "Maiasaura",
+      "paragraph_index": 116
+    },
+    {
+      "type": "entity",
+      "value": "Hadrosaurio",
+      "paragraph_index": 116
+    },
+    {
+      "type": "entity",
+      "value": "Jack Horner",
+      "paragraph_index": 116
+    },
+    {
+      "type": "entity",
+      "value": "Velociraptor",
+      "paragraph_index": 116
+    },
+    {
+      "type": "entity",
+      "value": "Ankylosaurus",
+      "paragraph_index": 116
+    },
+    {
+      "type": "entity",
+      "value": "Tyrannosaurus rex",
+      "paragraph_index": 136
+    },
+    {
+      "type": "entity",
+      "value": "Pterosaurio",
+      "paragraph_index": 150
+    },
+    {
+      "type": "entity",
+      "value": "Chicxulub",
+      "paragraph_index": 172
+    },
+    {
+      "type": "entity",
+      "value": "Yucatán",
+      "paragraph_index": 172
+    },
+    {
+      "type": "entity",
+      "value": "Extinción K-Pg",
+      "paragraph_index": 200
+    },
+    {
+      "type": "entity",
+      "value": "Cretácico-Paleógeno",
+      "paragraph_index": 200
+    },
+    {
+      "type": "entity",
+      "value": "Aves",
+      "paragraph_index": 201
+    },
+    {
+      "type": "entity",
+      "value": "Archaeopteryx",
+      "paragraph_index": 201
+    },
+    {
+      "type": "entity",
+      "value": "Mirlo",
+      "paragraph_index": 230
+    }
+  ],
+  "questions": [
+    {
+      "type": "question",
+      "value": "¿Cómo sería un día normal para un Diplodocus?",
+      "paragraph_index": 5
+    },
+    {
+      "type": "question",
+      "value": "¿Cómo sonaban los dinosaurios?",
+      "paragraph_index": 101
+    },
+    {
+      "type": "question",
+      "value": "¿Los pájaros son dinosaurios?",
+      "paragraph_index": 201
+    }
+  ],
+  "events": [
+    {
+      "type": "event",
+      "timestamp": -252000000.0,
+      "date_label": "hace ~252 millones de años",
+      "description": "Comienza la Era Mesozoica (Triásico)",
+      "paragraph_index": 35
+    },
+    {
+      "type": "event",
+      "timestamp": -230000000.0,
+      "date_label": "hace ~230 millones de años",
+      "description": "Aparición de los primeros dinosaurios en lo que hoy es Argentina",
+      "paragraph_index": 63
+    },
+    {
+      "type": "event",
+      "timestamp": -150000000.0,
+      "date_label": "hace ~150 millones de años",
+      "description": "Saurópodos gigantes en el Jurásico tardío",
+      "paragraph_index": 77
+    },
+    {
+      "type": "event",
+      "timestamp": -75000000.0,
+      "date_label": "hace ~75 millones de años",
+      "description": "Diversidad cretácica: Triceratops, Maiasaura, Tyrannosaurus",
+      "paragraph_index": 116
+    },
+    {
+      "type": "event",
+      "timestamp": -66000000.0,
+      "date_label": "hace ~66 millones de años",
+      "description": "Impacto de Chicxulub: meteorito de 10-15 km cae en Yucatán",
+      "paragraph_index": 172
+    },
+    {
+      "type": "event",
+      "timestamp": 1979.0,
+      "date_label": "1979",
+      "description": "Jack Horner nombra Maiasaura \"buena madre lagarta\"",
+      "paragraph_index": 116
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "featured": {
+    "slug": "mo",
+    "name": "Mo (Mozi)",
+    "bio": "Mo Di (墨翟, c. 468–391 a.C.), conocido en chino como Mozi (墨子, \"maestro\nMo\"), fue un filósofo y técnico chino del periodo de los Reinos\nCombatientes. Nació en el reino de Lu, en lo que hoy es la provincia de\nShandong. Fundó la escuela mohista, que durante dos siglos rivalizó con\nel confucianismo y el taoísmo.\n\nLos mohistas pensaban las herramientas en abstracto antes que casi nadie\nen el mundo: escribieron tratados sobre la palanca, la balanza y la\ncámara oscura, y desarrollaron una lógica formal independiente de la\ngriega. Su filosofía descansaba sobre tres ideas: amor universal\n(preocuparse por todos por igual, sin favorecer a la propia familia o el\npropio reino), defensa antes que ataque, y mérito sobre nacimiento.\n\nSus discípulos vivían casi como una orden militar de ingenieros\ndefensores. Cuando un reino vecino preparaba una guerra, los mohistas\naparecían en la ciudad amenazada y enseñaban a fortificarla — para que\nel ataque dejara de ser rentable y la guerra no se diera.\n\nTras la unificación Qin (221 a.C.) la escuela mohista desapareció y\ndurante siglos su libro estuvo casi olvidado. En el siglo XX, el\nsinólogo británico Joseph Needham la rescató y mostró que sus capítulos\nsobre mecánica y óptica son tan rigurosos como los griegos\ncontemporáneos — a veces más antiguos.",
+    "image": "images/05-Cosas/01-cuando-las-manos-no-alcanzan/glosario/_guia.webp"
+  },
+  "entries": [
+    {
+      "slug": "palanca",
+      "image": "images/05-Cosas/01-cuando-las-manos-no-alcanzan/glosario/palanca.webp",
+      "row": 0,
+      "col": 0,
+      "name": "Palanca",
+      "description": "Una barra rígida apoyada en un punto fijo (el fulcro) que multiplica la fuerza humana. Cuanto más lejos del fulcro se aplica la fuerza, más peso se puede mover."
+    },
+    {
+      "slug": "polea",
+      "image": "images/05-Cosas/01-cuando-las-manos-no-alcanzan/glosario/polea.webp",
+      "row": 0,
+      "col": 1,
+      "name": "Polea",
+      "description": "Rueda con un canal en su borde por donde pasa una cuerda. Cambia la dirección o multiplica la fuerza. Combinada con otras forma un polipasto."
+    },
+    {
+      "slug": "arquimedes",
+      "image": "images/05-Cosas/01-cuando-las-manos-no-alcanzan/glosario/arquimedes.webp",
+      "row": 0,
+      "col": 2,
+      "name": "Arquímedes",
+      "description": "Matemático e ingeniero griego de Siracusa (287–212 a.C.). Formuló la ley de la palanca. Inventó polipastos, tornillos hidráulicos y máquinas defensivas. Murió durante el sitio romano de Siracusa."
+    },
+    {
+      "slug": "rueda-eje",
+      "image": "images/05-Cosas/01-cuando-las-manos-no-alcanzan/glosario/rueda-eje.webp",
+      "row": 1,
+      "col": 0,
+      "name": "Rueda y eje",
+      "description": "Máquina simple formada por una rueda grande y un eje cilíndrico que giran juntos. La rueda actúa como brazo largo de palanca, el eje como brazo corto. Permite multiplicar la fuerza en aplicaciones como cabrestantes, pozos y ruedas de carro."
+    },
+    {
+      "slug": "tornillo",
+      "image": "images/05-Cosas/01-cuando-las-manos-no-alcanzan/glosario/tornillo.webp",
+      "row": 1,
+      "col": 1,
+      "name": "Tornillo",
+      "description": "Plano inclinado enrollado sobre un cilindro. La rosca del tornillo es la hipotenusa de un triángulo rectángulo dado vueltas alrededor de un eje. Multiplica la fuerza al cambiar mucho giro por poco avance."
+    },
+    {
+      "slug": "molino-agua",
+      "image": "images/05-Cosas/01-cuando-las-manos-no-alcanzan/glosario/molino-agua.webp",
+      "row": 1,
+      "col": 2,
+      "name": "Molino de agua",
+      "description": "Máquina que aprovecha la energía del agua corriente o que cae para hacer girar una rueda y transmitir el movimiento a otra máquina (muela, sierra, fuelle). El radio de la rueda actúa como brazo largo de palanca; el agua reemplaza al músculo humano."
+    },
+    {
+      "slug": "molino-viento",
+      "image": "images/05-Cosas/01-cuando-las-manos-no-alcanzan/glosario/molino-viento.webp",
+      "row": 2,
+      "col": 0,
+      "name": "Molino de viento",
+      "description": "Máquina que aprovecha la fuerza del viento para hacer girar un eje. Las aspas largas actúan como brazos de palanca; el viento reemplaza al músculo humano. Los molinos persas tenían eje vertical; los europeos, eje horizontal."
+    },
+    {
+      "slug": "brazo-hidraulico",
+      "image": "images/05-Cosas/01-cuando-las-manos-no-alcanzan/glosario/brazo-hidraulico.webp",
+      "row": 2,
+      "col": 1,
+      "name": "Brazo hidráulico",
+      "description": "Máquina que multiplica la fuerza humana usando un líquido (aceite o agua) confinado en cilindros conectados. Una bomba pequeña aplica presión sobre un pistón chico; el líquido transmite la presión a un pistón grande, que hace fuerza muchas veces mayor. La columna de líquido funciona como una palanca: cambia distancia por fuerza, pero ahora la \"moneda\" es superficie en vez de largo."
+    },
+    {
+      "slug": "conservacion-energia",
+      "image": "images/05-Cosas/01-cuando-las-manos-no-alcanzan/glosario/conservacion-energia.webp",
+      "row": 2,
+      "col": 2,
+      "name": "Conservación de la energía",
+      "description": "Ley fundamental de la física: la energía total de un sistema aislado no se crea ni se destruye, solo se transforma de una forma a otra. Ninguna máquina puede dar más energía de la que recibe. La formuló con precisión Hermann von Helmholtz en 1847."
+    }
+  ]
+}

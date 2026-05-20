@@ -1,0 +1,194 @@
+{
+  "entities": [
+    {
+      "type": "entity",
+      "value": "Sabana africana",
+      "paragraph_index": 50
+    },
+    {
+      "type": "entity",
+      "value": "Ludwig Wittgenstein",
+      "paragraph_index": 51
+    },
+    {
+      "type": "entity",
+      "value": "Proto-indoeuropeo",
+      "paragraph_index": 89
+    },
+    {
+      "type": "entity",
+      "value": "Estepas pónticas",
+      "paragraph_index": 89
+    },
+    {
+      "type": "entity",
+      "value": "Sumeria",
+      "paragraph_index": 115
+    },
+    {
+      "type": "entity",
+      "value": "Cuneiforme",
+      "paragraph_index": 115
+    },
+    {
+      "type": "entity",
+      "value": "Egipto antiguo",
+      "paragraph_index": 116
+    },
+    {
+      "type": "entity",
+      "value": "Jeroglíficos",
+      "paragraph_index": 116
+    },
+    {
+      "type": "entity",
+      "value": "Champollion",
+      "paragraph_index": 116
+    },
+    {
+      "type": "entity",
+      "value": "Piedra de Rosetta",
+      "paragraph_index": 116
+    },
+    {
+      "type": "entity",
+      "value": "Caracteres chinos",
+      "paragraph_index": 139
+    },
+    {
+      "type": "entity",
+      "value": "Huesos oraculares",
+      "paragraph_index": 139
+    },
+    {
+      "type": "entity",
+      "value": "Fenicia",
+      "paragraph_index": 150
+    },
+    {
+      "type": "entity",
+      "value": "Alfabeto fenicio",
+      "paragraph_index": 150
+    },
+    {
+      "type": "entity",
+      "value": "Alfabeto latino",
+      "paragraph_index": 150
+    },
+    {
+      "type": "entity",
+      "value": "Alfabeto cirílico",
+      "paragraph_index": 150
+    },
+    {
+      "type": "entity",
+      "value": "Familias lingüísticas",
+      "paragraph_index": 170
+    },
+    {
+      "type": "entity",
+      "value": "Muerte de lenguas",
+      "paragraph_index": 171
+    },
+    {
+      "type": "entity",
+      "value": "Emoji",
+      "paragraph_index": 198
+    },
+    {
+      "type": "entity",
+      "value": "Shigetaka Kurita",
+      "paragraph_index": 198
+    },
+    {
+      "type": "entity",
+      "value": "Auto-referencia",
+      "paragraph_index": 218
+    },
+    {
+      "type": "entity",
+      "value": "Paradoja del mentiroso",
+      "paragraph_index": 218
+    }
+  ],
+  "questions": [
+    {
+      "type": "question",
+      "value": "¿De dónde salieron las palabras?",
+      "paragraph_index": 50
+    },
+    {
+      "type": "question",
+      "value": "¿Cuántas lenguas hay en el mundo?",
+      "paragraph_index": 170
+    },
+    {
+      "type": "question",
+      "value": "¿Qué pasa cuando muere una lengua?",
+      "paragraph_index": 171
+    },
+    {
+      "type": "question",
+      "value": "¿Pueden las palabras hablar de las palabras?",
+      "paragraph_index": 218
+    }
+  ],
+  "events": [
+    {
+      "type": "event",
+      "timestamp": -68000.0,
+      "date_label": "hace ~70 000 años",
+      "description": "Origen del lenguaje humano moderno en África",
+      "paragraph_index": 50
+    },
+    {
+      "type": "event",
+      "timestamp": -3200.0,
+      "date_label": "~3 200 a.C.",
+      "description": "Cuneiforme inventado en Sumeria, primer sistema de escritura",
+      "paragraph_index": 115
+    },
+    {
+      "type": "event",
+      "timestamp": -3200.0,
+      "date_label": "~3 200 a.C.",
+      "description": "Jeroglíficos egipcios aparecen, casi simultáneos al cuneiforme",
+      "paragraph_index": 116
+    },
+    {
+      "type": "event",
+      "timestamp": -3000.0,
+      "date_label": "hace ~5 000 años",
+      "description": "Proto-indoeuropeo hablado en las estepas pónticas",
+      "paragraph_index": 89
+    },
+    {
+      "type": "event",
+      "timestamp": -1250.0,
+      "date_label": "~1 250 a.C.",
+      "description": "Caracteres chinos aparecen en huesos oraculares de la dinastía Shang",
+      "paragraph_index": 139
+    },
+    {
+      "type": "event",
+      "timestamp": -1050.0,
+      "date_label": "~1 050 a.C.",
+      "description": "Alfabeto fenicio: 22 signos para sonidos",
+      "paragraph_index": 150
+    },
+    {
+      "type": "event",
+      "timestamp": 1822.0,
+      "date_label": "1822",
+      "description": "Champollion descifra los jeroglíficos egipcios",
+      "paragraph_index": 116
+    },
+    {
+      "type": "event",
+      "timestamp": 1999.0,
+      "date_label": "1999",
+      "description": "Shigetaka Kurita inventa los emojis en Japón",
+      "paragraph_index": 198
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "entities": [
+    {
+      "type": "entity",
+      "value": "Lynn Margulis",
+      "paragraph_index": 47
+    },
+    {
+      "type": "entity",
+      "value": "Eón Arcaico",
+      "paragraph_index": 47
+    },
+    {
+      "type": "entity",
+      "value": "Atmósfera primitiva",
+      "paragraph_index": 47
+    },
+    {
+      "type": "entity",
+      "value": "Aminoácidos",
+      "paragraph_index": 84
+    },
+    {
+      "type": "entity",
+      "value": "Sopa primordial",
+      "paragraph_index": 84
+    },
+    {
+      "type": "entity",
+      "value": "Miller, Stanley",
+      "paragraph_index": 84
+    },
+    {
+      "type": "entity",
+      "value": "Fuentes hidrotermales (alcalinas)",
+      "paragraph_index": 103
+    },
+    {
+      "type": "entity",
+      "value": "Lost City (campo hidrotermal)",
+      "paragraph_index": 103
+    },
+    {
+      "type": "entity",
+      "value": "Lípidos",
+      "paragraph_index": 116
+    },
+    {
+      "type": "entity",
+      "value": "Vesícula lipídica",
+      "paragraph_index": 116
+    },
+    {
+      "type": "entity",
+      "value": "Protocélula",
+      "paragraph_index": 116
+    },
+    {
+      "type": "entity",
+      "value": "ARN",
+      "paragraph_index": 116
+    },
+    {
+      "type": "entity",
+      "value": "ADN",
+      "paragraph_index": 116
+    },
+    {
+      "type": "entity",
+      "value": "LUCA",
+      "paragraph_index": 116
+    },
+    {
+      "type": "entity",
+      "value": "Célula, primera",
+      "paragraph_index": 116
+    },
+    {
+      "type": "entity",
+      "value": "Cianobacterias",
+      "paragraph_index": 153
+    },
+    {
+      "type": "entity",
+      "value": "Fotosíntesis",
+      "paragraph_index": 153
+    },
+    {
+      "type": "entity",
+      "value": "Gran Evento de Oxidación",
+      "paragraph_index": 153
+    },
+    {
+      "type": "entity",
+      "value": "Formación de hierro bandeado",
+      "paragraph_index": 153
+    },
+    {
+      "type": "entity",
+      "value": "Mitocondria",
+      "paragraph_index": 184
+    },
+    {
+      "type": "entity",
+      "value": "Célula eucariota",
+      "paragraph_index": 184
+    },
+    {
+      "type": "entity",
+      "value": "Endosimbiosis",
+      "paragraph_index": 184
+    },
+    {
+      "type": "entity",
+      "value": "Plancton",
+      "paragraph_index": 225
+    },
+    {
+      "type": "entity",
+      "value": "Fitoplancton",
+      "paragraph_index": 225
+    },
+    {
+      "type": "entity",
+      "value": "Diatomea",
+      "paragraph_index": 225
+    },
+    {
+      "type": "entity",
+      "value": "Copépodo",
+      "paragraph_index": 225
+    },
+    {
+      "type": "entity",
+      "value": "Bioaerosoles",
+      "paragraph_index": 225
+    },
+    {
+      "type": "entity",
+      "value": "Esporas",
+      "paragraph_index": 225
+    },
+    {
+      "type": "entity",
+      "value": "Polen",
+      "paragraph_index": 225
+    },
+    {
+      "type": "entity",
+      "value": "Tardígrado",
+      "paragraph_index": 225
+    }
+  ],
+  "questions": [
+    {
+      "type": "question",
+      "value": "¿De dónde sale el musgo?",
+      "paragraph_index": 0
+    },
+    {
+      "type": "question",
+      "value": "¿De dónde salieron los primeros seres vivos?",
+      "paragraph_index": 47
+    },
+    {
+      "type": "question",
+      "value": "¿Qué es el ARN y en qué se diferencia del ADN?",
+      "paragraph_index": 116
+    },
+    {
+      "type": "question",
+      "value": "¿Cómo se formó la primera célula?",
+      "paragraph_index": 116
+    },
+    {
+      "type": "question",
+      "value": "¿De dónde viene el oxígeno que respiramos?",
+      "paragraph_index": 153
+    },
+    {
+      "type": "question",
+      "value": "¿Por qué fue terrible la aparición del oxígeno?",
+      "paragraph_index": 153
+    },
+    {
+      "type": "question",
+      "value": "¿Cómo apareció la mitocondria dentro de las células?",
+      "paragraph_index": 184
+    },
+    {
+      "type": "question",
+      "value": "¿Por qué hay tantos bichitos invisibles en el aire?",
+      "paragraph_index": 225
+    },
+    {
+      "type": "question",
+      "value": "¿Qué es un tardígrado y por qué sobrevive a tantas cosas?",
+      "paragraph_index": 225
+    }
+  ],
+  "events": [
+    {
+      "type": "event",
+      "timestamp": -4200000000.0,
+      "date_label": "hace ~4 200 millones de años",
+      "description": "LUCA, último ancestro común universal (estimación 2024)",
+      "paragraph_index": 116
+    },
+    {
+      "type": "event",
+      "timestamp": -4000000000.0,
+      "date_label": "hace ~4 000 millones de años",
+      "description": "Tierra arcaica con océanos calientes y atmósfera reductora, sin vida",
+      "paragraph_index": 47
+    },
+    {
+      "type": "event",
+      "timestamp": -2460000000.0,
+      "date_label": "hace ~2 460 millones de años",
+      "description": "Gran Evento de Oxidación: el oxígeno empieza a acumularse en la atmósfera",
+      "paragraph_index": 153
+    },
+    {
+      "type": "event",
+      "timestamp": -2000000000.0,
+      "date_label": "hace ~2 000 millones de años",
+      "description": "Primera célula eucariota por endosimbiosis; aparece la mitocondria",
+      "paragraph_index": 184
+    },
+    {
+      "type": "event",
+      "timestamp": 1952.0,
+      "date_label": "1952",
+      "description": "Stanley Miller realiza el experimento de Miller-Urey",
+      "paragraph_index": 84
+    }
+  ]
+}

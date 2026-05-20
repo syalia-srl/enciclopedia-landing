@@ -1,0 +1,91 @@
+{
+  "entities": [
+    {
+      "type": "entity",
+      "value": "Pasteur, Louis",
+      "paragraph_index": 45
+    },
+    {
+      "type": "entity",
+      "value": "hipotálamo",
+      "paragraph_index": 139
+    },
+    {
+      "type": "entity",
+      "value": "linfocito B",
+      "paragraph_index": 168
+    },
+    {
+      "type": "entity",
+      "value": "linfocito T",
+      "paragraph_index": 168
+    },
+    {
+      "type": "entity",
+      "value": "Fleming, Alexander",
+      "paragraph_index": 192
+    },
+    {
+      "type": "entity",
+      "value": "Nelmes, Sarah",
+      "paragraph_index": 207
+    },
+    {
+      "type": "entity",
+      "value": "Jenner, Edward",
+      "paragraph_index": 207
+    },
+    {
+      "type": "entity",
+      "value": "Phipps, James",
+      "paragraph_index": 207
+    }
+  ],
+  "questions": [
+    {
+      "type": "question",
+      "value": "¿Cómo funciona una vacuna de mRNA?",
+      "paragraph_index": 207
+    },
+    {
+      "type": "question",
+      "value": "¿Cómo recuerda el cuerpo a un virus para defenderse mejor la próxima vez?",
+      "paragraph_index": 232
+    },
+    {
+      "type": "question",
+      "value": "¿Podrá enseñarse al sistema inmune a reconocer células de cáncer?",
+      "paragraph_index": 243
+    }
+  ],
+  "events": [
+    {
+      "type": "event",
+      "timestamp": 1796.0,
+      "date_label": "14 de mayo de 1796",
+      "description": "Edward Jenner aplica la primera vacuna a James Phipps con fluido de viruela vacuna",
+      "paragraph_index": 207
+    },
+    {
+      "type": "event",
+      "timestamp": 1864.0,
+      "date_label": "1859–1864",
+      "description": "Pasteur demuestra con el matraz de cuello de cisne que los microorganismos no se generan espontáneamente",
+      "paragraph_index": 243
+    },
+    {
+      "type": "event",
+      "timestamp": 1881.0,
+      "date_label": "1881",
+      "description": "Pasteur prueba públicamente la vacuna del ántrax en Pouilly-le-Fort",
+      "paragraph_index": 207
+    },
+    {
+      "type": "event",
+      "timestamp": 1885.0,
+      "date_label": "1885",
+      "description": "Pasteur salva con la vacuna de la rabia a Joseph Meister, primer humano sobreviviente de la enfermedad",
+      "paragraph_index": 207
+    }
+  ]
+}

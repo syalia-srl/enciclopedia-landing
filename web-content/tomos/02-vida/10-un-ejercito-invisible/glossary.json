@@ -1,0 +1,74 @@
+{
+  "featured": {
+    "slug": "pasteur",
+    "name": "Pasteur, Louis",
+    "bio": "Louis Pasteur (1822–1895) fue un químico y biólogo francés, considerado\nel padre de la microbiología moderna. Trabajó toda su vida en su\nlaboratorio de París, rodeado de matraces, microscopios y libretas, con\nuna paciencia obstinada para los detalles que terminó por cambiar el\nmundo entero.\n\nDemostró, con experimentos cuidadosos, que las enfermedades vienen de\nseres vivos demasiado pequeños para verse —no de aires malos, como se\ncreía hasta entonces—. Su famoso matraz de cuello de cisne mantuvo un\ncaldo esterilizado durante años, refutando la idea de que la vida pueda\nsurgir sola de la materia inerte.\n\nInventó la primera vacuna contra el ántrax (en 1881, en una granja\nfrancesa con un rebaño de ovejas) y la primera contra la rabia (en 1885),\ncon la que salvó al niño Joseph Meister tras la mordida de un perro\nrabioso. Su trabajo fundó la teoría germinal de la enfermedad. Sin él no\nexistirían los hospitales limpios, los antibióticos ni las vacunas\nmodernas tal como las conocemos.",
+    "image": "images/02-Vida/10-un-ejercito-invisible/glosario/_guia.webp"
+  },
+  "entries": [
+    {
+      "slug": "jenner",
+      "image": "images/02-Vida/10-un-ejercito-invisible/glosario/jenner.webp",
+      "row": 0,
+      "col": 1,
+      "name": "Jenner, Edward",
+      "description": "Médico inglés (1749–1823) que aplicó la primera vacuna documentada el 14 de mayo de 1796. Tomó fluido de las pústulas de la viruela vacuna en la mano de una lechera, Sarah Nelmes, y lo inoculó al niño James Phipps de ocho años, que después no se enfermó al ser expuesto a la viruela humana. La palabra \"vacuna\" se llama así por la vaca de Sarah, Blossom."
+    },
+    {
+      "slug": "fleming",
+      "image": "images/02-Vida/10-un-ejercito-invisible/glosario/fleming.webp",
+      "row": 0,
+      "col": 2,
+      "name": "Fleming, Alexander",
+      "description": "Médico escocés (1881–1955) que descubrió la penicilina por accidente en 1928. Un moho contaminó un cultivo de bacterias en su laboratorio y, alrededor del moho, las bacterias habían muerto. La sustancia del moho fue el primer antibiótico moderno; recibió el Premio Nobel en 1945."
+    },
+    {
+      "slug": "macrofago",
+      "image": "images/02-Vida/10-un-ejercito-invisible/glosario/macrofago.webp",
+      "row": 1,
+      "col": 0,
+      "name": "Macrófago",
+      "description": "Célula del sistema inmune que patrulla los tejidos del cuerpo y se traga a los invasores. Su nombre viene del griego *macro* (grande) y *fago* (comer). Después de tragarse al invasor, guarda un trocito y se lo muestra a los soldados que aprenden, los linfocitos."
+    },
+    {
+      "slug": "linfocito-b",
+      "image": "images/02-Vida/10-un-ejercito-invisible/glosario/linfocito-b.webp",
+      "row": 1,
+      "col": 1,
+      "name": "Linfocito B",
+      "description": "Tipo de glóbulo blanco que fabrica anticuerpos: llaves moleculares que encajan exactamente con una pieza del invasor. Cada B fabrica un solo modelo de llave. Entre todos los B del cuerpo siempre hay alguno con la llave correcta para cualquier invasor que pueda llegar."
+    },
+    {
+      "slug": "linfocito-t",
+      "image": "images/02-Vida/10-un-ejercito-invisible/glosario/linfocito-t.webp",
+      "row": 1,
+      "col": 2,
+      "name": "Linfocito T",
+      "description": "Tipo de glóbulo blanco que dirige la respuesta inmune. Algunos coordinan a los demás soldados; otros, llamados citotóxicos, matan células del propio cuerpo cuando un virus las ha infectado por dentro. La T viene del timo, el órgano donde maduran."
+    },
+    {
+      "slug": "hipotalamo",
+      "image": "images/02-Vida/10-un-ejercito-invisible/glosario/hipotalamo.webp",
+      "row": 2,
+      "col": 0,
+      "name": "Hipotálamo",
+      "description": "Región del cerebro del tamaño de una almendra. Controla la temperatura del cuerpo, el hambre, la sed y los ritmos del sueño. Cuando recibe la alarma de un invasor, sube el termostato del cuerpo y produce fiebre."
+    },
+    {
+      "slug": "espicula",
+      "image": "images/02-Vida/10-un-ejercito-invisible/glosario/espicula.webp",
+      "row": 2,
+      "col": 1,
+      "name": "Espícula",
+      "description": "Proteína con forma de corona que el virus de la covid tiene por fuera. La usa para enganchar y entrar a las células del cuerpo. Las vacunas modernas se la presentan al sistema inmune para que aprenda a reconocerla antes de la infección de verdad."
+    },
+    {
+      "slug": "cuello-de-cisne",
+      "image": "images/02-Vida/10-un-ejercito-invisible/glosario/cuello-de-cisne.webp",
+      "row": 2,
+      "col": 2,
+      "name": "Cuello de cisne",
+      "description": "Frasco de vidrio con cuello largo doblado en forma de S que Pasteur usó entre 1859 y 1864. Su forma permitía pasar el aire pero atrapaba los microorganismos en la curva, así que el caldo del frasco no se contaminaba. Sirvió para demostrar que la vida no surge sola de la materia inerte."
+    }
+  ]
+}

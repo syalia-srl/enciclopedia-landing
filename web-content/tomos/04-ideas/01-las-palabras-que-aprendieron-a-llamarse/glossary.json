@@ -1,0 +1,82 @@
+{
+  "featured": {
+    "slug": "wittgenstein",
+    "name": "Wittgenstein, Ludwig",
+    "bio": "Ludwig Wittgenstein (1889–1951) fue un filósofo austriaco-británico,\nconsiderado uno de los más importantes del siglo XX. Nació en Viena\nen una familia muy rica y muy musical — Brahms y Mahler eran amigos\nde la casa — y dedicó su vida a una pregunta sencilla y enorme:\n¿qué hacen las palabras cuando significan?\n\nPublicó solo un libro mientras vivía. Lo escribió en las trincheras\nde la Primera Guerra Mundial, lo terminó como prisionero en Italia,\ny lo presentó como su tesis doctoral en Cambridge en 1929. Se llama\n*Tractatus Logico-Philosophicus*, es muy corto, y termina con una\nfrase que se cita desde entonces: *\"sobre lo que no se puede\nhablar, hay que callar\"*.\n\nPasó el resto de su vida cambiando de opinión en silencio, anotando\ncuadernos que nadie leyó hasta que él murió. Su segundo libro, las\n*Investigaciones filosóficas* (publicado póstumo en 1953), dijo\ncasi lo opuesto del primero: que el significado de una palabra no\nestá en el mundo, sino en cómo se usa. La palabra \"rey\" no\nsignifica nada por sí sola: significa lo que significa porque\nsabemos jugar al ajedrez. Y así con todas. Wittgenstein las llamó\n*juegos del lenguaje*.",
+    "image": "images/04-Ideas/01-las-palabras-que-aprendieron-a-llamarse/glosario/_guia.webp"
+  },
+  "entries": [
+    {
+      "slug": "proto-indoeuropeo",
+      "image": "",
+      "row": 0,
+      "col": 0,
+      "name": "Proto-indoeuropeo",
+      "description": "Lengua hablada hace unos 5 000 años en las estepas de lo que hoy es Ucrania y el sur de Rusia. Nadie la escribió: los lingüistas la reconstruyen comparando las lenguas que descienden de ella. De ese tronco salieron el español, el inglés, el ruso, el griego, el persa, el sánscrito y casi todas las lenguas de Europa y la mitad de Asia."
+    },
+    {
+      "slug": "cuneiforme",
+      "image": "",
+      "row": 0,
+      "col": 1,
+      "name": "Cuneiforme",
+      "description": "Primer sistema de escritura de la historia, inventado en Sumeria hace unos 5 200 años. Se hacía hundiendo una caña con punta de cuña en tablillas de arcilla blanda, que después se secaban al sol. La mayoría de los textos cuneiformes que se conservan no son poemas ni leyes, sino listas de cuentas: recibos de cereal, cuentas de ovejas. La escritura empezó como contabilidad."
+    },
+    {
+      "slug": "jeroglificos",
+      "image": "",
+      "row": 0,
+      "col": 2,
+      "name": "Jeroglíficos",
+      "description": "Sistema de escritura del Egipto antiguo, casi tan antiguo como el cuneiforme. Combina dibujos que valen por una cosa (un buitre, un sol, un pie) con dibujos que valen por un sonido. Se talló en muros de templos y tumbas durante más de tres mil años. Después nadie supo leerlo durante quince siglos, hasta que en 1822 Champollion lo descifró."
+    },
+    {
+      "slug": "piedra-rosetta",
+      "image": "",
+      "row": 1,
+      "col": 0,
+      "name": "Piedra de Rosetta",
+      "description": "Bloque de granito oscuro de algo más de un metro de altura, encontrado en 1799 cerca de la ciudad egipcia de Rosetta. Tiene el mismo decreto escrito tres veces: en jeroglíficos, en una escritura egipcia más simple y en griego antiguo. El griego se podía leer; los jeroglíficos no. Champollion usó las tres versiones como una clave para descifrar el sistema egipcio. Hoy se conserva en el Museo Británico, en Londres."
+    },
+    {
+      "slug": "caracteres-chinos",
+      "image": "",
+      "row": 1,
+      "col": 1,
+      "name": "Caracteres chinos",
+      "description": "Sistema de escritura inventado en China hace \\textasciitilde{}3 200 años. Cada carácter representa una palabra entera o una idea, no un sonido — por eso un mismo carácter sirve igual de bien para alguien que habla mandarín y para alguien que habla cantonés, aunque cada uno lo pronuncie distinto. Hoy hay decenas de miles de caracteres; con los más comunes se lee la mayoría de los textos."
+    },
+    {
+      "slug": "alfabeto-fenicio",
+      "image": "",
+      "row": 1,
+      "col": 2,
+      "name": "Alfabeto fenicio",
+      "description": "Invento de los comerciantes fenicios hace unos 3 050 años: en lugar de un dibujo distinto para cada palabra o idea, veintidós signos que representan veintidós sonidos. Cualquier palabra del idioma se podía escribir combinándolos. Más simple, más rápido, más fácil de aprender. De este alfabeto descienden el griego, el latino (que usamos para escribir el español), el árabe, el hebreo y el cirílico."
+    },
+    {
+      "slug": "familias-linguisticas",
+      "image": "",
+      "row": 2,
+      "col": 0,
+      "name": "Familias lingüísticas",
+      "description": "Grupos de lenguas que descienden de una misma lengua antigua, como ramas que salen de un mismo tronco. El español, el francés y el italiano vienen del latín; el latín y el griego del proto-indoeuropeo. Hoy se conocen unas siete mil lenguas vivas en el mundo, agrupadas en algo más de cien familias."
+    },
+    {
+      "slug": "muerte-lenguas",
+      "image": "",
+      "row": 2,
+      "col": 1,
+      "name": "Muerte de lenguas",
+      "description": "Cuando muere la última persona que hablaba una lengua, esa lengua deja de existir. Cada dos semanas, en promedio, desaparece una en el mundo. Con ella se pierden palabras que nadie tradujo: nombres de plantas, modos de saludar, formas de medir el tiempo que solo tenía esa lengua. Algunas se intentan recuperar a tiempo, grabando a los últimos hablantes y enseñándolas a los niños."
+    },
+    {
+      "slug": "emoji",
+      "image": "",
+      "row": 2,
+      "col": 2,
+      "name": "Emoji",
+      "description": "Pequeño dibujo que se intercala en un mensaje de texto: una cara, un corazón, un rayo, una taza de café. Los inventó en 1999 el ingeniero japonés Shigetaka Kurita para una compañía de teléfonos móviles. La palabra viene del japonés *e* (imagen) y *moji* (carácter). En cierto modo, son jeroglíficos otra vez — la escritura volvió al dibujo después de cinco mil años de letras."
+    }
+  ]
+}
