@@ -1,0 +1,138 @@
+{
+  "featured": {
+    "slug": "caroline-herschel",
+    "name": "Herschel, Caroline",
+    "bio": "Caroline Herschel (1750–1848) nació en Hannover, en una familia\ngrande y modesta de músicos. De niña pasó por una viruela y un tifus\nque casi la matan; la dejaron muy pequeña — apenas un metro treinta\nde adulta — y con el ojo izquierdo dañado para siempre. Su madre la\ncrió pensando que serviría para coser y para cuidar la casa.\n\nA los veintidós años, su hermano mayor, William, vino a buscarla\ndesde Inglaterra. William era músico en Bath, y había empezado a\ninteresarse por la astronomía. Le enseñó a Caroline a cantar — fue\ncantante de oratorios durante años — y le enseñó a pulir espejos para\nlos telescopios que él construía con sus propias manos en el patio\nde su casa. Caroline aprendió las dos cosas. Y, sobre todo, aprendió\na escribir números a oscuras, mientras William, asomado al\ntelescopio, le iba dictando cuentas de lo que veía.\n\nEl 13 de marzo de 1781, William descubrió Urano. Fue el primer\nplaneta nuevo que la humanidad encontraba en la historia conocida.\nA partir de ahí, los Herschel dejaron la música y se dedicaron al\ncielo. El rey Jorge III les dio una pensión para que vivieran de eso.\n\nCaroline empezó a usar su propio telescopio durante las noches en que\nWilliam estaba ocupado en otra cosa. Cazaba cometas. Encontró el\nprimero el 1 de agosto de 1786, y siete más entre 1788 y 1797 — ocho\nen total. En 1787, el rey le dio a ella también un sueldo, de\ncincuenta libras al año, por ser la asistente oficial de William.\nFue la primera mujer en la historia que cobró un sueldo del gobierno\nbritánico por trabajo científico.\n\nVivió hasta los noventa y siete años. En 1828, ya viuda y de vuelta\nen Hannover, la Royal Astronomical Society le entregó su Medalla de\nOro — la primera vez que la sociedad daba esa distinción a una\nmujer. En 1846, en su cumpleaños número noventa y seis, recibió la\nMedalla de Oro de la Ciencia del rey de Prusia. Murió tranquila dos\naños después, sin haber dejado de mirar el cielo.",
+    "image": "images/01-Universo/03-vecinos-del-sol/glosario/_guia.webp"
+  },
+  "entries": [
+    {
+      "slug": "sol",
+      "image": "images/01-Universo/03-vecinos-del-sol/glosario/sol.webp",
+      "row": 0,
+      "col": 0,
+      "name": "Sol",
+      "description": "Estrella ordinaria de tipo G en el centro del sistema solar. Concentra el 99,86\\% de la masa de todo el sistema. Su superficie está a unos 5 500 °C. Mantiene en órbita a planetas, asteroides y cometas mediante su gravedad."
+    },
+    {
+      "slug": "mercurio",
+      "image": "images/01-Universo/03-vecinos-del-sol/glosario/mercurio.webp",
+      "row": 0,
+      "col": 1,
+      "name": "Mercurio",
+      "description": "Planeta más pequeño y más cercano al Sol. No tiene atmósfera apreciable ni lunas. La temperatura en su lado iluminado puede llegar a los 350 °C; en el lado oscuro baja a −170 °C. Una vuelta al Sol le toma 88 días terrestres."
+    },
+    {
+      "slug": "venus",
+      "image": "images/01-Universo/03-vecinos-del-sol/glosario/venus.webp",
+      "row": 0,
+      "col": 2,
+      "name": "Venus",
+      "description": "Segundo planeta del sistema solar, casi del tamaño de la Tierra (95\\% de su diámetro). Su atmósfera es 96\\% dióxido de carbono y atrapa el calor del Sol; por eso su superficie está a unos 464 °C, más caliente que Mercurio aunque está más lejos del Sol. La presión atmosférica es 90 veces la terrestre. Gira al revés y muy lentamente."
+    },
+    {
+      "slug": "tierra",
+      "image": "images/01-Universo/03-vecinos-del-sol/glosario/tierra.webp",
+      "row": 0,
+      "col": 3,
+      "name": "Tierra",
+      "description": "Tercer planeta del sistema solar. Único conocido con vida. Tiene una sola Luna grande, formada hace unos 4 500 millones de años por el impacto de un planeta llamado Theia. El 71\\% de su superficie está cubierto por agua."
+    },
+    {
+      "slug": "marte",
+      "image": "images/01-Universo/03-vecinos-del-sol/glosario/marte.webp",
+      "row": 1,
+      "col": 0,
+      "name": "Marte",
+      "description": "Cuarto planeta del sistema solar. Es rojo por el óxido de hierro de su superficie. Tiene casquetes polares de hielo de agua y de dióxido de carbono congelado. Hubo agua líquida en su superficie hace miles de millones de años. Tiene dos lunas pequeñas: Fobos y Deimos. Alberga el Monte Olimpo, el volcán más grande del sistema solar."
+    },
+    {
+      "slug": "cinturon-asteroides",
+      "image": "images/01-Universo/03-vecinos-del-sol/glosario/cinturon-asteroides.webp",
+      "row": 1,
+      "col": 1,
+      "name": "Cinturón de asteroides",
+      "description": "Banda de cuerpos rocosos entre las órbitas de Marte y Júpiter. Pese a las películas, está casi vacío: cientos de miles catalogados, separados en promedio por millones de kilómetros. El más grande es Ceres, un planeta enano de unos 950 km."
+    },
+    {
+      "slug": "jupiter",
+      "image": "images/01-Universo/03-vecinos-del-sol/glosario/jupiter.webp",
+      "row": 1,
+      "col": 2,
+      "name": "Júpiter",
+      "description": "Planeta más grande del sistema solar; gigante gaseoso compuesto sobre todo de hidrógeno y helio. Pesa 318 veces más que la Tierra. Tiene la Gran Mancha Roja, una tormenta gigantesca observada desde 1664 con vientos de hasta 680 km/h. Tiene 97 lunas confirmadas, entre ellas las cuatro grandes descubiertas por Galileo: Ío, Europa, Ganímedes y Calisto."
+    },
+    {
+      "slug": "saturno",
+      "image": "images/01-Universo/03-vecinos-del-sol/glosario/saturno.webp",
+      "row": 1,
+      "col": 3,
+      "name": "Saturno",
+      "description": "Sexto planeta y segundo más grande; gigante gaseoso famoso por sus anillos brillantes hechos de partículas de hielo y polvo. Los anillos miden unos 275 000 km de extensión pero son extremadamente finos. Tiene 274 lunas reconocidas por la Unión Astronómica Internacional, entre ellas Titán."
+    },
+    {
+      "slug": "urano",
+      "image": "images/01-Universo/03-vecinos-del-sol/glosario/urano.webp",
+      "row": 2,
+      "col": 0,
+      "name": "Urano",
+      "description": "Séptimo planeta del sistema solar; gigante helado. Su eje de rotación está inclinado casi 98 grados, así que el planeta gira \"acostado\" sobre su lado: cada polo recibe 42 años de luz solar continua seguidos de 42 años de oscuridad. Lo descubrió William Herschel en 1781 — primer planeta hallado con telescopio. Tiene 29 lunas conocidas con nombres de personajes de Shakespeare y Pope."
+    },
+    {
+      "slug": "neptuno",
+      "image": "images/01-Universo/03-vecinos-del-sol/glosario/neptuno.webp",
+      "row": 2,
+      "col": 1,
+      "name": "Neptuno",
+      "description": "Octavo y último planeta del sistema solar; gigante helado azul oscuro. Tiene los vientos más rápidos del sistema solar, hasta 2 000 km/h. Fue descubierto en 1846 por predicción matemática (Le Verrier y Adams) más observación de Galle. Su luna mayor, Tritón, orbita en sentido retrógrado: probablemente fue capturada del Cinturón de Kuiper. Un año en Neptuno equivale a 165 años terrestres."
+    },
+    {
+      "slug": "pluton",
+      "image": "images/01-Universo/03-vecinos-del-sol/glosario/pluton.webp",
+      "row": 2,
+      "col": 2,
+      "name": "Plutón",
+      "description": "Planeta enano del Cinturón de Kuiper. Descubierto por Clyde Tombaugh el 18 de febrero de 1930. Fue considerado el noveno planeta hasta que en 2006 la Unión Astronómica Internacional lo reclasificó como planeta enano. Tiene cinco lunas conocidas; la mayor, Caronte, es tan grande que algunos consideran el sistema un \"planeta doble\". La sonda New Horizons lo sobrevoló en 2015."
+    },
+    {
+      "slug": "planeta-enano",
+      "image": "images/01-Universo/03-vecinos-del-sol/glosario/planeta-enano.webp",
+      "row": 2,
+      "col": 3,
+      "name": "Planeta enano",
+      "description": "Cuerpo redondo que orbita el Sol pero comparte vecindario con muchos otros objetos parecidos a él, sin dominar gravitacionalmente su zona. Categoría inventada por la Unión Astronómica Internacional en 2006. Hasta hoy: Plutón, Eris, Haumea, Makemake y Ceres."
+    },
+    {
+      "slug": "cinturon-kuiper",
+      "image": "images/01-Universo/03-vecinos-del-sol/glosario/cinturon-kuiper.webp",
+      "row": 3,
+      "col": 0,
+      "name": "Cinturón de Kuiper",
+      "description": "Anillo de cuerpos helados más allá de la órbita de Neptuno (entre 30 y 50 unidades astronómicas del Sol). Aquí viven la mayoría de los planetas enanos: Plutón, Haumea, Makemake. De aquí vienen los cometas de período corto. La existencia del cinturón fue propuesta por Kenneth Edgeworth en 1943 y por Gerard Kuiper en 1951; el primer objeto se descubrió en 1992."
+    },
+    {
+      "slug": "nube-oort",
+      "image": "images/01-Universo/03-vecinos-del-sol/glosario/nube-oort.webp",
+      "row": 3,
+      "col": 1,
+      "name": "Nube de Oort",
+      "description": "Esfera hipotética de cuerpos helados que rodea todo el sistema solar a distancias entre 2 000 y 50 000 unidades astronómicas del Sol — la frontera externa está casi a un año-luz. Nadie la ha visto directamente; su existencia se infiere de las trayectorias de los cometas de período largo. La propuso Jan Oort en 1950."
+    },
+    {
+      "slug": "cometa",
+      "image": "images/01-Universo/03-vecinos-del-sol/glosario/cometa.webp",
+      "row": 3,
+      "col": 2,
+      "name": "Cometa",
+      "description": "Cuerpo pequeño hecho de hielo, polvo y roca — \"una bola de nieve sucia\". Cuando se acerca al Sol, los hielos se evaporan y forman dos colas: una de polvo, curvada, y otra de gas brillante que apunta siempre lejos del Sol. Los cometas de período corto vienen del Cinturón de Kuiper; los de período largo, de la Nube de Oort."
+    },
+    {
+      "slug": "luna",
+      "image": "images/01-Universo/03-vecinos-del-sol/glosario/luna.webp",
+      "row": 3,
+      "col": 3,
+      "name": "Luna",
+      "description": "Único satélite natural de la Tierra. Se formó hace \\textasciitilde{}4 500 millones de años por el impacto de Theia (un planeta del tamaño de Marte) contra la Tierra primitiva. Siempre nos muestra la misma cara porque su rotación está sincronizada con su órbita."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "02-vida",
+  "num": 2,
+  "name": "La Vida",
+  "cover": "images/02-Vida/cover.webp",
+  "badge_id": "tomo:02-vida",
+  "chapters": [
+    {
+      "id": "01-el-origen-de-la-vida",
+      "title": "El origen de la vida",
+      "tomo_id": "02-vida",
+      "badge_id": "chapter:02-vida:01-el-origen-de-la-vida",
+      "cover_image": "images/02-Vida/01-somos-polvo-vivo/cover.webp"
+    },
+    {
+      "id": "10-un-ejercito-invisible",
+      "title": "Un ejército invisible",
+      "tomo_id": "02-vida",
+      "badge_id": "chapter:02-vida:10-un-ejercito-invisible",
+      "cover_image": "images/02-Vida/10-un-ejercito-invisible/cover.webp"
+    },
+    {
+      "id": "11-el-bichito-que-pica",
+      "title": "El bichito que pica",
+      "tomo_id": "02-vida",
+      "badge_id": "chapter:02-vida:11-el-bichito-que-pica",
+      "cover_image": "images/02-Vida/11-el-bichito-que-pica/cover.webp"
+    }
+  ]
+}

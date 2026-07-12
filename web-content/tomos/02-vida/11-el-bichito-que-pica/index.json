@@ -1,0 +1,109 @@
+{
+  "entities": [],
+  "questions": [
+    {
+      "type": "question",
+      "value": "¿Por qué a veces los mosquitos enferman a la gente y a veces no?",
+      "paragraph_index": 0
+    },
+    {
+      "type": "question",
+      "value": "¿Qué es un vector?",
+      "paragraph_index": 54
+    },
+    {
+      "type": "question",
+      "value": "¿Se puede parar una enfermedad sin saber qué la causa?",
+      "paragraph_index": 105
+    },
+    {
+      "type": "question",
+      "value": "¿Por qué tarda tanto en aceptarse una verdad correcta?",
+      "paragraph_index": 179
+    },
+    {
+      "type": "question",
+      "value": "¿Qué pasa cuando los mosquitos llegan a sitios donde antes no podían vivir?",
+      "paragraph_index": 231
+    }
+  ],
+  "events": [
+    {
+      "type": "event",
+      "timestamp": 1347.0,
+      "date_label": "otoño de 1347",
+      "description": "La peste negra llega a Europa por el puerto siciliano de Mesina, traída en barcos del Mar Negro; en cuatro años se lleva a un tercio de los europeos",
+      "paragraph_index": 105
+    },
+    {
+      "type": "event",
+      "timestamp": 1377.0,
+      "date_label": "1377",
+      "description": "Ragusa establece la primera cuarentena documentada del mundo: 30 días de espera (*trentino*) para los barcos sospechosos de traer peste antes de poder desembarcar",
+      "paragraph_index": 105
+    },
+    {
+      "type": "event",
+      "timestamp": 1403.0,
+      "date_label": "1403",
+      "description": "Venecia funda el primer lazareto del mundo, edificio dedicado a aislar a los sospechosos de portar enfermedades",
+      "paragraph_index": 105
+    },
+    {
+      "type": "event",
+      "timestamp": 1847.05,
+      "date_label": "mayo de 1847",
+      "description": "Ignaz Semmelweis impone el lavado de manos con cal clorada en la maternidad del Hospital General de Viena; la mortalidad por fiebre puerperal cae del 18% al 2%",
+      "paragraph_index": 179
+    },
+    {
+      "type": "event",
+      "timestamp": 1854.685,
+      "date_label": "8 de septiembre de 1854",
+      "description": "John Snow hace retirar la palanca de la bomba de Broad Street en el Soho de Londres, deteniendo la epidemia de cólera; nace la epidemiología moderna",
+      "paragraph_index": 135
+    },
+    {
+      "type": "event",
+      "timestamp": 1854.83,
+      "date_label": "invierno de 1854–1855",
+      "description": "Florence Nightingale reorganiza el hospital militar británico de Scutari y reduce la mortalidad del 42% al 2% mediante higiene y datos rigurosos",
+      "paragraph_index": 161
+    },
+    {
+      "type": "event",
+      "timestamp": 1881.13,
+      "date_label": "18 de febrero de 1881",
+      "description": "Carlos Finlay presenta en Washington la hipótesis de que el mosquito *Aedes aegypti* transmite la fiebre amarilla; la comunidad médica internacional la ignora durante veinte años",
+      "paragraph_index": 28
+    },
+    {
+      "type": "event",
+      "timestamp": 1894.0,
+      "date_label": "1894",
+      "description": "Alexandre Yersin identifica en Hong Kong la bacteria *Yersinia pestis*, causante de la peste; cinco siglos después de la cuarentena de Ragusa",
+      "paragraph_index": 105
+    },
+    {
+      "type": "event",
+      "timestamp": 1901.5,
+      "date_label": "1901–1902",
+      "description": "William Gorgas erradica la fiebre amarilla en La Habana aplicando los métodos sanitarios de Carlos Finlay",
+      "paragraph_index": 206
+    },
+    {
+      "type": "event",
+      "timestamp": 1904.5,
+      "date_label": "1904–1906",
+      "description": "William Gorgas aplica los métodos cubanos en la zona del Canal de Panamá; la fiebre amarilla desaparece en 1906",
+      "paragraph_index": 206
+    },
+    {
+      "type": "event",
+      "timestamp": 1914.62,
+      "date_label": "15 de agosto de 1914",
+      "description": "Se abre al tráfico el Canal de Panamá tras diez años de obras estadounidenses, posibles gracias a la aplicación de los métodos sanitarios de Finlay",
+      "paragraph_index": 206
+    }
+  ]
+}
