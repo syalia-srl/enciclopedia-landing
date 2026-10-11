@@ -11837,7 +11837,7 @@ if (window.caches) caches.keys().then(ks => ks.forEach(k => caches.delete(k))).c
     chrome();
   }
   function open(i, at = 0) {               // at: page index, 'last', or a fraction in (0,1)
-    chap().classList.remove('on');
+    chap().classList.remove('on'); base = null;
     ci = Math.max(0, Math.min(chaps.length - 1, i));
     chap().classList.add('on');
     loadImages(ci); setTimeout(() => loadImages(ci + 1), 400);
