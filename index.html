@@ -11848,21 +11848,29 @@ if (window.caches) caches.keys().then(ks => ks.forEach(k => caches.delete(k))).c
   const next = () => pi < pages - 1 ? goPage(pi + 1) : (ci < chaps.length - 1 && open(ci + 1, 0));
   const prev = () => pi > 0 ? goPage(pi - 1) : (ci > 0 && open(ci - 1, 'last'));
 
-  // the page number follows the native scroll
-  let raf = 0;
-  chaps.forEach(c => c.addEventListener('scroll', () => {
-    if (c !== chap() || raf) return;
-    raf = requestAnimationFrame(() => {
-      raf = 0;
-      const p = Math.round(c.scrollLeft / W);
-      if (p !== pi) { pi = p; chrome(); }
-    });
-  }, {passive: true}));
+  // the page number follows the native scroll; when scrolling settles, a gesture that carried more than one
+  // page from where it settled last (a fling that started mid-snap can skip a snap point) is pulled back to the neighbour
+  let raf = 0, base = null, endTimer = 0;
+  function settle() {
+    const c = chap(), p = Math.round(c.scrollLeft / W);
+    if (base !== null && Math.abs(p - base) > 1) { const to = base + Math.sign(p - base); base = null; goPage(to); return; }
+    base = null; if (p !== pi) { pi = p; chrome(); }
+  }
+  chaps.forEach(c => {
+    c.addEventListener('scroll', () => {
+      if (c !== chap()) return;
+      clearTimeout(endTimer); endTimer = setTimeout(settle, 160);        // fallback where scrollend is missing
+      if (raf) return;
+      raf = requestAnimationFrame(() => { raf = 0; const p = Math.round(c.scrollLeft / W); if (p !== pi) { pi = p; chrome(); } });
+    }, {passive: true});
+    c.addEventListener('scrollend', () => { if (c === chap()) { clearTimeout(endTimer); settle(); } });
+  });
 
   // a swipe past the first or last page moves to the neighbouring chapter
   let sx = 0, sy = 0, sScroll = 0;
   stage.addEventListener('touchstart', e => {
     sx = e.touches[0].clientX; sy = e.touches[0].clientY; sScroll = chap().scrollLeft;
+    base = Math.round(sScroll / W);                                      // the page under the finger when the gesture starts
   }, {passive: true});
   stage.addEventListener('touchend', e => {
     const t = e.changedTouches[0], dx = t.clientX - sx, dy = t.clientY - sy;
