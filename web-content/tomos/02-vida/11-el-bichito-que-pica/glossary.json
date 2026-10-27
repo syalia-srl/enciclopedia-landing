@@ -1,0 +1,98 @@
+{
+  "featured": {
+    "slug": "finlay",
+    "name": "Finlay, Carlos",
+    "bio": "Carlos Juan Finlay (1833–1915) fue un médico cubano que cambió para\nsiempre la forma en que el mundo entiende las enfermedades transmitidas\npor los bichitos. Nació en Puerto Príncipe (hoy Camagüey), hijo de un\nmédico escocés y de una madre francesa, y hablaba español, inglés,\nfrancés y alemán. Se graduó en Filadelfia y ejerció en La Habana durante\nmás de cuarenta años, atendiendo sin cobrar a quien no podía pagar.\n\nEn 1881, en su casa de El Vedado, descubrió que la fiebre amarilla la\ntransmite el mosquito *Aedes aegypti* — y no el aire malo, como creía\ncasi todo el mundo entonces. Presentó su hipótesis en Washington el 18\nde febrero de aquel año, y el resto del mundo se rió. Tardó veinte años\nen que le creyeran. Cuando le creyeron, sus métodos sanitarios\npermitieron erradicar la fiebre amarilla en La Habana en 1901–1902, y\ndespués hicieron posible la construcción del Canal de Panamá, donde los\nfranceses habían fracasado por la enfermedad.\n\nFue Jefe de Sanidad de Cuba entre 1902 y 1909. Murió en La Habana el 20\nde agosto de 1915. Está enterrado en la Necrópolis de Cristóbal Colón.\nLa Organización Panamericana de la Salud lo reconoce hoy como el\ndescubridor del mosquito como vector — el primer médico de la historia\nen demostrar que un bichito vivo puede llevar una enfermedad escondida.",
+    "image": "images/02-Vida/11-el-bichito-que-pica/glosario/_guia.webp"
+  },
+  "entries": [
+    {
+      "slug": "aedes-aegypti",
+      "image": "images/02-Vida/11-el-bichito-que-pica/glosario/aedes-aegypti.webp",
+      "row": 0,
+      "col": 0,
+      "name": "Aedes aegypti",
+      "description": "Mosquito originario de África que vive en zonas cálidas y se reproduce en agua quieta. Tiene anillos blancos sobre fondo oscuro en las patas y una marca plateada en forma de lira en la espalda. Solo la hembra pica, porque necesita la sangre para sus huevos. Transmite la fiebre amarilla, el dengue, el zika y el chikungunya."
+    },
+    {
+      "slug": "pulga-rata",
+      "image": "images/02-Vida/11-el-bichito-que-pica/glosario/pulga-rata.webp",
+      "row": 0,
+      "col": 1,
+      "name": "Pulga de la rata",
+      "description": "*Xenopsylla cheopis* — pulga oriental de la rata, de unos 2.5 milímetros, parásita de las ratas negras. Cuando la rata muere, la pulga busca otro huésped y puede picar a humanos, transmitiéndoles la bacteria *Yersinia pestis*, causante de la peste bubónica. Fue el vector de la peste negra del siglo XIV."
+    },
+    {
+      "slug": "gorgas",
+      "image": "images/02-Vida/11-el-bichito-que-pica/glosario/gorgas.webp",
+      "row": 0,
+      "col": 2,
+      "name": "Gorgas, William",
+      "description": "Médico militar estadounidense (1854–1920). Trabajó con Carlos Finlay en La Habana en 1901 aplicando los métodos cubanos para erradicar la fiebre amarilla. En 1904 fue enviado a Panamá y aplicó los mismos métodos en la zona del Canal, lo que permitió que la obra avanzara y se completara en 1914."
+    },
+    {
+      "slug": "snow",
+      "image": "images/02-Vida/11-el-bichito-que-pica/glosario/snow.webp",
+      "row": 1,
+      "col": 0,
+      "name": "Snow, John",
+      "description": "Médico inglés (1813–1858). En 1854 mapeó casa por casa los casos de cólera en el barrio del Soho de Londres y descubrió que todos se concentraban alrededor de una sola bomba de agua. Cuando hizo retirar la palanca de la bomba, la epidemia se acabó. Es considerado el padre de la epidemiología moderna."
+    },
+    {
+      "slug": "nightingale",
+      "image": "images/02-Vida/11-el-bichito-que-pica/glosario/nightingale.webp",
+      "row": 1,
+      "col": 1,
+      "name": "Nightingale, Florence",
+      "description": "Enfermera inglesa (1820–1910). Durante la guerra de Crimea (1854–1855) reorganizó el hospital militar británico de Scutari y redujo la mortalidad del 42\\% al 2\\% mediante higiene rigurosa y datos. Creó el primer gráfico estadístico moderno —las \"rosas de Coxcomb\"— para convencer al Parlamento. Fundó la enfermería moderna."
+    },
+    {
+      "slug": "semmelweis",
+      "image": "images/02-Vida/11-el-bichito-que-pica/glosario/semmelweis.webp",
+      "row": 1,
+      "col": 2,
+      "name": "Semmelweis, Ignaz",
+      "description": "Médico húngaro-austríaco (1818–1865). En 1847, en la maternidad del Hospital General de Viena, descubrió que la fiebre puerperal se transmitía en las manos de los médicos que venían de la sala de autopsias. Impuso el lavado con cal clorada y bajó la mortalidad del 18\\% al 2\\%. La comunidad médica lo rechazó; murió en un asilo sin que le creyeran. Pasteur le dio la razón treinta años después."
+    },
+    {
+      "slug": "ragusa",
+      "image": "images/02-Vida/11-el-bichito-que-pica/glosario/ragusa.webp",
+      "row": 2,
+      "col": 0,
+      "name": "Ragusa",
+      "description": "Ciudad-puerto del Adriático (hoy Dubrovnik, en Croacia). En 1377 estableció la primera cuarentena documentada del mundo: 30 días de espera (*trentino*) para los barcos sospechosos de traer peste, antes de que pudieran desembarcar. Fue una de las repúblicas marítimas más prósperas del Mediterráneo medieval."
+    },
+    {
+      "slug": "canal-panama",
+      "image": "images/02-Vida/11-el-bichito-que-pica/glosario/canal-panama.webp",
+      "row": 2,
+      "col": 1,
+      "name": "Canal de Panamá",
+      "description": "Canal interoceánico de 82 kilómetros que une el Atlántico con el Pacífico a través del istmo de Panamá. Los franceses intentaron construirlo entre 1881 y 1894 y fracasaron en parte por la fiebre amarilla y la malaria. Estados Unidos retomó la obra en 1904 aplicando los métodos sanitarios de Finlay, y el canal se abrió al tráfico el 15 de agosto de 1914."
+    },
+    {
+      "slug": "vector",
+      "image": "images/02-Vida/11-el-bichito-que-pica/glosario/vector.webp",
+      "row": 2,
+      "col": 2,
+      "name": "Vector",
+      "description": "Ser vivo —un mosquito, una pulga, una garrapata— que transporta un microbio causante de enfermedad de un huésped a otro sin enfermarse él mismo. El vector no es la enfermedad: es el camino por el que viaja. Romper el camino del vector detiene la transmisión."
+    },
+    {
+      "slug": "cuarentena",
+      "image": "images/02-Vida/11-el-bichito-que-pica/glosario/cuarentena.webp",
+      "row": 3,
+      "col": 0,
+      "name": "Cuarentena",
+      "description": "Aislamiento preventivo de personas o mercancías procedentes de un lugar afectado por una enfermedad, para impedir su propagación. Nació en Ragusa en 1377 con 30 días (*trentino*), después se subió a 40 (*quarantino*, de donde viene la palabra). Es la primera medida sanitaria política de la historia."
+    },
+    {
+      "slug": "epidemiologia",
+      "image": "images/02-Vida/11-el-bichito-que-pica/glosario/epidemiologia.webp",
+      "row": 3,
+      "col": 1,
+      "name": "Epidemiología",
+      "description": "Disciplina científica que estudia cómo se distribuyen las enfermedades en una población, para descubrir su causa y su modo de transmisión. Se basa en buscar patrones espaciales y temporales: dónde, cuándo y a quién afectan los casos."
+    }
+  ]
+}

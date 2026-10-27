@@ -1,0 +1,174 @@
+{
+  "entities": [
+    {
+      "type": "entity",
+      "value": "Herschel, Caroline",
+      "paragraph_index": 25
+    },
+    {
+      "type": "entity",
+      "value": "Copérnico, Nicolás",
+      "paragraph_index": 46
+    },
+    {
+      "type": "entity",
+      "value": "Newton, Isaac",
+      "paragraph_index": 46
+    },
+    {
+      "type": "entity",
+      "value": "Galilei, Galileo",
+      "paragraph_index": 142
+    },
+    {
+      "type": "entity",
+      "value": "Hooke, Robert",
+      "paragraph_index": 142
+    },
+    {
+      "type": "entity",
+      "value": "Cassini, Giovanni",
+      "paragraph_index": 163
+    },
+    {
+      "type": "entity",
+      "value": "Huygens, Christiaan",
+      "paragraph_index": 163
+    },
+    {
+      "type": "entity",
+      "value": "Herschel, William",
+      "paragraph_index": 182
+    },
+    {
+      "type": "entity",
+      "value": "Tombaugh, Clyde",
+      "paragraph_index": 202
+    },
+    {
+      "type": "entity",
+      "value": "Brown, Mike",
+      "paragraph_index": 202
+    },
+    {
+      "type": "entity",
+      "value": "Kuiper, Gerard",
+      "paragraph_index": 239
+    },
+    {
+      "type": "entity",
+      "value": "Oort, Jan",
+      "paragraph_index": 248
+    }
+  ],
+  "questions": [
+    {
+      "type": "question",
+      "value": "¿Cuántos planetas hay?",
+      "paragraph_index": 0
+    },
+    {
+      "type": "question",
+      "value": "¿Por qué Plutón dejó de ser planeta?",
+      "paragraph_index": 202
+    },
+    {
+      "type": "question",
+      "value": "¿Hay vida en algún lugar del sistema solar fuera de la Tierra?",
+      "paragraph_index": 248
+    }
+  ],
+  "events": [
+    {
+      "type": "event",
+      "timestamp": -4500000000.0,
+      "date_label": "hace ~4 500 millones de años",
+      "description": "Theia colisiona con la Tierra; el material expulsado forma la Luna",
+      "paragraph_index": 95
+    },
+    {
+      "type": "event",
+      "timestamp": 1543.0,
+      "date_label": "1543",
+      "description": "Copérnico publica *De revolutionibus orbium coelestium* y propone el modelo heliocéntrico",
+      "paragraph_index": 46
+    },
+    {
+      "type": "event",
+      "timestamp": 1610.0,
+      "date_label": "enero de 1610",
+      "description": "Galileo descubre las cuatro lunas grandes de Júpiter",
+      "paragraph_index": 142
+    },
+    {
+      "type": "event",
+      "timestamp": 1655.0,
+      "date_label": "25 de marzo de 1655",
+      "description": "Christiaan Huygens descubre Titán",
+      "paragraph_index": 163
+    },
+    {
+      "type": "event",
+      "timestamp": 1664.0,
+      "date_label": "mayo de 1664",
+      "description": "Robert Hooke observa por primera vez la Gran Mancha Roja de Júpiter",
+      "paragraph_index": 142
+    },
+    {
+      "type": "event",
+      "timestamp": 1675.0,
+      "date_label": "1675",
+      "description": "Cassini descubre la división mayor de los anillos de Saturno",
+      "paragraph_index": 163
+    },
+    {
+      "type": "event",
+      "timestamp": 1781.0,
+      "date_label": "13 de marzo de 1781",
+      "description": "William Herschel descubre Urano desde su jardín en Bath",
+      "paragraph_index": 182
+    },
+    {
+      "type": "event",
+      "timestamp": 1846.0,
+      "date_label": "23 de septiembre de 1846",
+      "description": "Galle descubre Neptuno en el lugar predicho por Le Verrier y Adams",
+      "paragraph_index": 182
+    },
+    {
+      "type": "event",
+      "timestamp": 1930.0,
+      "date_label": "18 de febrero de 1930",
+      "description": "Clyde Tombaugh descubre Plutón desde el Observatorio Lowell",
+      "paragraph_index": 202
+    },
+    {
+      "type": "event",
+      "timestamp": 1950.0,
+      "date_label": "1950",
+      "description": "Jan Oort propone la nube de cometas que lleva su nombre",
+      "paragraph_index": 248
+    },
+    {
+      "type": "event",
+      "timestamp": 1992.0,
+      "date_label": "30 de agosto de 1992",
+      "description": "Jewitt y Luu descubren el primer objeto del Cinturón de Kuiper después de Plutón",
+      "paragraph_index": 239
+    },
+    {
+      "type": "event",
+      "timestamp": 2005.0,
+      "date_label": "2005",
+      "description": "Mike Brown descubre Eris, mundo helado más allá de Plutón — desencadena la redefinición de \"planeta\"",
+      "paragraph_index": 202
+    },
+    {
+      "type": "event",
+      "timestamp": 2006.0,
+      "date_label": "24 de agosto de 2006",
+      "description": "La Unión Astronómica Internacional define oficialmente \"planeta\" y reclasifica a Plutón como planeta enano",
+      "paragraph_index": 202
+    }
+  ]
+}

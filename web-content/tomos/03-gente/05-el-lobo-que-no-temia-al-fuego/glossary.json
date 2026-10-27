@@ -1,0 +1,82 @@
+{
+  "featured": {
+    "slug": "beliayev",
+    "name": "Beliáyev, Dmitri",
+    "bio": "Dmitri Beliáyev (1917–1985) fue un genetista soviético, director del\nInstituto de Citología y Genética en Akademgorodok (Novosibirsk,\nSiberia) desde 1959 hasta su muerte. Le tocó defender la genética\nmendeliana en una época peligrosa, cuando el régimen soviético la\nrechazaba y promovía teorías rivales: hacer ciencia bien podía\ncostarle la carrera o la vida.\n\nEn 1952 empezó el experimento por el que se le recuerda. Cogió zorros\nplateados de granjas peleteras y permitió reproducirse solo a los más\ntolerantes al contacto humano — el 20% más mansos de cada generación.\nSin tocar nada más. En la generación cuatro un macho movió la cola al\nver al humano. En la décima aparecieron orejas caídas y manchas\nblancas en el pelaje. En la cuarenta los zorros se comportaban y se\nveían como perros.\n\nEl experimento sigue vivo, ahora dirigido por sus discípulos. Lleva\nmás de setenta años y cuarenta generaciones de selección continua.\n*The New York Times* lo describió como \"posiblemente el experimento\nde cría más extraordinario jamás realizado\". Beliáyev murió en 1985\nsin ver el final, pero ya con la respuesta clara: domesticarse no es\naprender, es transmitir la calma de padres a hijos hasta que se hace\ncuerpo.",
+    "image": "images/03-Gente/05-el-lobo-que-no-temia-al-fuego/glosario/_guia.webp"
+  },
+  "entries": [
+    {
+      "slug": "auto-domesticacion",
+      "image": "images/03-Gente/05-el-lobo-que-no-temia-al-fuego/glosario/auto-domesticacion.webp",
+      "row": 0,
+      "col": 0,
+      "name": "Auto-domesticación",
+      "description": "Idea según la cual los perros no fueron capturados ni amaestrados por humanos, sino que los lobos menos asustadizos se acercaron solos a las hogueras buscando restos de comida. Los humanos no los espantaron porque a su vez ahuyentaban a depredadores más grandes. Generación tras generación, los lobos más tranquilos se quedaron cerca y se hicieron perros."
+    },
+    {
+      "slug": "sindrome-domesticacion",
+      "image": "images/03-Gente/05-el-lobo-que-no-temia-al-fuego/glosario/sindrome-domesticacion.webp",
+      "row": 0,
+      "col": 1,
+      "name": "Síndrome de domesticación",
+      "description": "Conjunto de rasgos que aparecen juntos en muchos animales domesticados: orejas caídas, cola curva, hocico más corto, manchas blancas en el pelaje, agresión menor, cuerpos más pequeños. Cuando alguien selecciona durante muchas generaciones por mansedumbre, los demás rasgos vienen en el paquete sin que nadie los pida."
+    },
+    {
+      "slug": "zorro-plateado",
+      "image": "images/03-Gente/05-el-lobo-que-no-temia-al-fuego/glosario/zorro-plateado.webp",
+      "row": 0,
+      "col": 2,
+      "name": "Zorro plateado",
+      "description": "Variante del zorro común con pelaje gris-negro plateado. En 1952, en Siberia, Beliáyev empezó a criar zorros plateados seleccionando solo a los más mansos para reproducirse. Tras cuarenta generaciones, los zorros se comportan y se ven como perros: orejas caídas, colas curvas, manchas blancas, ladridos y meneos de cola. La domesticación condensada en una vida humana."
+    },
+    {
+      "slug": "anubis",
+      "image": "images/03-Gente/05-el-lobo-que-no-temia-al-fuego/glosario/anubis.webp",
+      "row": 1,
+      "col": 0,
+      "name": "Anubis",
+      "description": "Dios egipcio del mundo de los muertos y la momificación, representado como un cánido negro o como un hombre con cabeza de cánido. Acompañaba a las almas al más allá y vigilaba el \"Pesado del Corazón\", la prueba que decidía el destino del muerto. Los egipcios momificaban perros como ofrenda: en las catacumbas de Saqqara hay restos de cientos de miles."
+    },
+    {
+      "slug": "galgo",
+      "image": "images/03-Gente/05-el-lobo-que-no-temia-al-fuego/glosario/galgo.webp",
+      "row": 1,
+      "col": 1,
+      "name": "Galgo",
+      "description": "Perro de caza alto, esbelto, de patas largas y pecho hondo, criado durante siglos para perseguir presas a la vista — más rápido que un caballo en una carrera corta. En la Europa medieval su posesión estaba a veces reservada por ley a la nobleza. Hoy se usa también en carreras y, cada vez más, como perro de compañía."
+    },
+    {
+      "slug": "xoloitzcuintli",
+      "image": "images/03-Gente/05-el-lobo-que-no-temia-al-fuego/glosario/xoloitzcuintli.webp",
+      "row": 1,
+      "col": 2,
+      "name": "Xoloitzcuintli",
+      "description": "Perro mexicano antiquísimo, de piel desnuda, ojos almendrados y orejas grandes en punta. Su nombre viene del náhuatl: *Xolotl*, dios azteca del fuego, y *itzcuintli*, \"perro\". Para los aztecas, el xolo guiaba el alma del muerto al inframundo y solía enterrarse con su dueño. Es el perro nacional de México."
+    },
+    {
+      "slug": "husky-siberiano",
+      "image": "images/03-Gente/05-el-lobo-que-no-temia-al-fuego/glosario/husky-siberiano.webp",
+      "row": 2,
+      "col": 0,
+      "name": "Husky siberiano",
+      "description": "Perro de trineo originario del noreste de Siberia, criado durante miles de años por el pueblo Chukchi para tirar de cargas a través de la nieve. Patas fuertes, pelo doble que aísla del frío extremo, ojos a veces de dos colores distintos. Llegó a Alaska a principios del siglo XX y desde allí se hizo famoso. Sasha es uno."
+    },
+    {
+      "slug": "san-bernardo",
+      "image": "images/03-Gente/05-el-lobo-que-no-temia-al-fuego/glosario/san-bernardo.webp",
+      "row": 2,
+      "col": 1,
+      "name": "San Bernardo",
+      "description": "Gran perro de montaña, criado por monjes en el Hospicio del Gran San Bernardo, en los Alpes, desde el siglo XVII. Durante doscientos años rescató viajeros perdidos en avalanchas y tormentas de nieve. Barry, el más famoso, salvó entre cuarenta y cien vidas alrededor del año 1800. Hoy las operaciones de rescate alpino usan razas más ágiles, pero el San Bernardo sigue siendo el símbolo del oficio."
+    },
+    {
+      "slug": "perro-guia",
+      "image": "images/03-Gente/05-el-lobo-que-no-temia-al-fuego/glosario/perro-guia.webp",
+      "row": 2,
+      "col": 2,
+      "name": "Perro guía",
+      "description": "Perro entrenado durante unos dos años para acompañar a una persona ciega. Sabe parar antes de un escalón, esquivar obstáculos, ignorar otros perros y desobedecer a su dueño cuando una orden lo pondría en peligro. Las razas más usadas son el labrador y el golden retriever. La primera escuela moderna se fundó en 1929 en Estados Unidos."
+    }
+  ]
+}

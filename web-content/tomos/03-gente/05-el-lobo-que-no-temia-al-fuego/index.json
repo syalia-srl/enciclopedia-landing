@@ -1,0 +1,220 @@
+{
+  "entities": [
+    {
+      "type": "entity",
+      "value": "Beliáyev, Dmitri",
+      "paragraph_index": 34
+    },
+    {
+      "type": "entity",
+      "value": "Siberia",
+      "paragraph_index": 34
+    },
+    {
+      "type": "entity",
+      "value": "Auto-domesticación",
+      "paragraph_index": 57
+    },
+    {
+      "type": "entity",
+      "value": "Síndrome de domesticación",
+      "paragraph_index": 81
+    },
+    {
+      "type": "entity",
+      "value": "Perro, primer",
+      "paragraph_index": 81
+    },
+    {
+      "type": "entity",
+      "value": "Anubis",
+      "paragraph_index": 94
+    },
+    {
+      "type": "entity",
+      "value": "Egipto antiguo",
+      "paragraph_index": 94
+    },
+    {
+      "type": "entity",
+      "value": "Cave canem",
+      "paragraph_index": 94
+    },
+    {
+      "type": "entity",
+      "value": "Roma antigua",
+      "paragraph_index": 94
+    },
+    {
+      "type": "entity",
+      "value": "Pompeya",
+      "paragraph_index": 94
+    },
+    {
+      "type": "entity",
+      "value": "Perros medievales",
+      "paragraph_index": 119
+    },
+    {
+      "type": "entity",
+      "value": "Galgo",
+      "paragraph_index": 119
+    },
+    {
+      "type": "entity",
+      "value": "Sabueso",
+      "paragraph_index": 119
+    },
+    {
+      "type": "entity",
+      "value": "Xoloitzcuintli",
+      "paragraph_index": 132
+    },
+    {
+      "type": "entity",
+      "value": "Aztecas",
+      "paragraph_index": 132
+    },
+    {
+      "type": "entity",
+      "value": "Xolotl",
+      "paragraph_index": 132
+    },
+    {
+      "type": "entity",
+      "value": "México",
+      "paragraph_index": 132
+    },
+    {
+      "type": "entity",
+      "value": "Inuit",
+      "paragraph_index": 148
+    },
+    {
+      "type": "entity",
+      "value": "Trineo de perros",
+      "paragraph_index": 148
+    },
+    {
+      "type": "entity",
+      "value": "Husky siberiano",
+      "paragraph_index": 148
+    },
+    {
+      "type": "entity",
+      "value": "Zorro plateado",
+      "paragraph_index": 172
+    },
+    {
+      "type": "entity",
+      "value": "Akademgorodok",
+      "paragraph_index": 172
+    },
+    {
+      "type": "entity",
+      "value": "Síndrome de domesticación",
+      "paragraph_index": 172
+    },
+    {
+      "type": "entity",
+      "value": "Perro guía",
+      "paragraph_index": 197
+    },
+    {
+      "type": "entity",
+      "value": "Labrador",
+      "paragraph_index": 197
+    },
+    {
+      "type": "entity",
+      "value": "San Bernardo",
+      "paragraph_index": 197
+    },
+    {
+      "type": "entity",
+      "value": "Búsqueda y rescate",
+      "paragraph_index": 197
+    },
+    {
+      "type": "entity",
+      "value": "Avalancha",
+      "paragraph_index": 197
+    },
+    {
+      "type": "entity",
+      "value": "Barry (perro de rescate)",
+      "paragraph_index": 197
+    },
+    {
+      "type": "entity",
+      "value": "Perro de terapia",
+      "paragraph_index": 197
+    },
+    {
+      "type": "entity",
+      "value": "Perros, población mundial",
+      "paragraph_index": 197
+    }
+  ],
+  "questions": [
+    {
+      "type": "question",
+      "value": "¿Cuándo dejó de ser un lobo el perro?",
+      "paragraph_index": 34
+    },
+    {
+      "type": "question",
+      "value": "¿Qué hacen los perros guía para personas ciegas?",
+      "paragraph_index": 197
+    },
+    {
+      "type": "question",
+      "value": "¿Dónde y cuándo empezó la domesticación del lobo?",
+      "paragraph_index": 197
+    }
+  ],
+  "events": [
+    {
+      "type": "event",
+      "timestamp": -30000.0,
+      "date_label": "hace ~30 000 años",
+      "description": "Lobos antiguos empiezan a acercarse a las hogueras humanas en Siberia paleolítica",
+      "paragraph_index": 34
+    },
+    {
+      "type": "event",
+      "timestamp": -7000.0,
+      "date_label": "hace ~9 000 años",
+      "description": "Primeros perros de trineo en la isla Zhokhov, noreste de Siberia",
+      "paragraph_index": 148
+    },
+    {
+      "type": "event",
+      "timestamp": -1500.0,
+      "date_label": "hace ~3 500 años",
+      "description": "Anubis y los perros sagrados del antiguo Egipto",
+      "paragraph_index": 94
+    },
+    {
+      "type": "event",
+      "timestamp": 50.0,
+      "date_label": "siglo I d.C.",
+      "description": "Mosaico Cave canem en la Casa del Poeta Trágico, Pompeya",
+      "paragraph_index": 94
+    },
+    {
+      "type": "event",
+      "timestamp": 1929.0,
+      "date_label": "1929",
+      "description": "Dorothy Eustis y Morris Frank fundan The Seeing Eye, primera escuela de perros guía en Estados Unidos",
+      "paragraph_index": 197
+    },
+    {
+      "type": "event",
+      "timestamp": 1959.0,
+      "date_label": "1959",
+      "description": "El experimento de domesticación de zorros plateados de Beliáyev cumple su séptimo año en Akademgorodok",
+      "paragraph_index": 172
+    }
+  ]
+}

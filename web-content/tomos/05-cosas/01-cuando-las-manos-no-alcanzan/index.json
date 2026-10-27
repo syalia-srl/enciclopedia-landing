@@ -1,0 +1,124 @@
+{
+  "entities": [
+    {
+      "type": "entity",
+      "value": "Mo (Mozi)",
+      "paragraph_index": 20
+    },
+    {
+      "type": "entity",
+      "value": "Lu",
+      "paragraph_index": 20
+    },
+    {
+      "type": "entity",
+      "value": "palanca",
+      "paragraph_index": 20
+    },
+    {
+      "type": "entity",
+      "value": "polea",
+      "paragraph_index": 46
+    },
+    {
+      "type": "entity",
+      "value": "polipasto",
+      "paragraph_index": 46
+    },
+    {
+      "type": "entity",
+      "value": "Arquímedes",
+      "paragraph_index": 46
+    },
+    {
+      "type": "entity",
+      "value": "Siracusa",
+      "paragraph_index": 46
+    },
+    {
+      "type": "entity",
+      "value": "rueda y eje",
+      "paragraph_index": 76
+    },
+    {
+      "type": "entity",
+      "value": "tornillo",
+      "paragraph_index": 101
+    },
+    {
+      "type": "entity",
+      "value": "plano inclinado",
+      "paragraph_index": 101
+    },
+    {
+      "type": "entity",
+      "value": "máquina simple",
+      "paragraph_index": 101
+    },
+    {
+      "type": "entity",
+      "value": "molino de agua",
+      "paragraph_index": 138
+    },
+    {
+      "type": "entity",
+      "value": "molino de viento",
+      "paragraph_index": 167
+    },
+    {
+      "type": "entity",
+      "value": "grúa",
+      "paragraph_index": 195
+    },
+    {
+      "type": "entity",
+      "value": "brazo hidráulico",
+      "paragraph_index": 226
+    },
+    {
+      "type": "entity",
+      "value": "conservación de la energía",
+      "paragraph_index": 264
+    },
+    {
+      "type": "entity",
+      "value": "Helmholtz, Hermann von",
+      "paragraph_index": 264
+    }
+  ],
+  "questions": [
+    {
+      "type": "question",
+      "value": "¿Cómo es que ese palito chiquito puede más que mi mano entera?",
+      "paragraph_index": 2
+    },
+    {
+      "type": "question",
+      "value": "¿Habrá alguna máquina capaz de romper la ley de conservación de la energía?",
+      "paragraph_index": 264
+    }
+  ],
+  "events": [
+    {
+      "type": "event",
+      "timestamp": -400.0,
+      "date_label": "siglo IV a.C.",
+      "description": "Mo y los mohistas describen palanca y balanza en el reino de Lu",
+      "paragraph_index": 20
+    },
+    {
+      "type": "event",
+      "timestamp": -250.0,
+      "date_label": "c. 250 a.C.",
+      "description": "Arquímedes formula la ley de la palanca en Sobre el equilibrio de los planos",
+      "paragraph_index": 46
+    },
+    {
+      "type": "event",
+      "timestamp": 1847.0,
+      "date_label": "1847",
+      "description": "Hermann von Helmholtz publica la ley de conservación de la energía",
+      "paragraph_index": 264
+    }
+  ]
+}

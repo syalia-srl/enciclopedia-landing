@@ -1,0 +1,16 @@
+{
+  "id": "04-ideas",
+  "num": 4,
+  "name": "Las Ideas",
+  "cover": "",
+  "badge_id": "tomo:04-ideas",
+  "chapters": [
+    {
+      "id": "01-las-palabras-que-aprendieron-a-llamarse",
+      "title": "Las palabras que aprendieron a llamarse",
+      "tomo_id": "04-ideas",
+      "badge_id": "chapter:04-ideas:01-las-palabras-que-aprendieron-a-llamarse",
+      "cover_image": "images/04-Ideas/01-las-palabras-que-aprendieron-a-llamarse/cover.webp"
+    }
+  ]
+}
